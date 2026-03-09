@@ -1,0 +1,35 @@
+name: Actualizare date Kick
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Instalează Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalează dependențe
+        run: pip install KickApi
+
+      - name: Preia datele de pe Kick
+        run: python fetch_kick.py
+
+      - name: Commit & push data.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data.json
+          git diff --staged --quiet || git commit -m "🤖 Actualizare date Kick $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
