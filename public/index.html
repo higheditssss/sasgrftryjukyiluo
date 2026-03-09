@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>razvwi — Archive</title>
+  <meta name="description" content="Arhivă completă VOD-uri și clipuri razvwi pe Kick.com"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Barlow+Condensed:wght@400;600;700;900&display=swap" rel="stylesheet"/>
+  <style>
+    :root{
+      --bg:#080808; --s1:#0f0f0f; --s2:#141414; --s3:#191919;
+      --border:#1d1d1d; --border2:#252525;
+      --kick:#53fc18; --kick-a:rgba(83,252,24,.12); --kick-b:rgba(83,252,24,.06); --kick-c:rgba(83,252,24,.25);
+      --text:#f0f0f0; --muted:#505050; --muted2:#383838;
+      --mono:'Space Mono',monospace; --disp:'Barlow Condensed',sans-serif;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{background:var(--bg);color:var(--text);font-family:var(--disp);overflow-x:hidden;min-height:100vh;cursor:default}
+
+    /* scanlines */
+    body::after{
+      content:'';position:fixed;inset:0;pointer-events:none;z-index:9999;
+      background:repeating-linear-gradient(0deg,transparent,transparent 3px,rgba(0,0,0,.04) 3px,rgba(0,0,0,.04) 4px);
+    }
+
+    /* ─── HEADER ─── */
+    header{
+      position:sticky;top:0;z-index:100;
+      background:rgba(8,8,8,.94);backdrop-filter:blur(20px);
+      border-bottom:1px solid var(--border);
+      height:58px;display:flex;align-items:center;padding:0 1.75rem;gap:1rem;
+    }
+    .logo{display:flex;align-items:center;gap:10px;text-decoration:none;flex-shrink:0}
+    .logo-dot{
+      width:9px;height:9px;border-radius:50%;background:var(--kick);
+      box-shadow:0 0 10px var(--kick),0 0 24px var(--kick-c);
+      animation:glow 2.4s ease-in-out infinite;
+    }
+    @keyframes glow{0%,100%{opacity:1;box-shadow:0 0 10px var(--kick),0 0 22px var(--kick-c)}50%{opacity:.5;box-shadow:0 0 4px var(--kick)}}
+    .logo-text{font-family:var(--disp);font-weight:900;font-size:1.15rem;letter-spacing:-.01em;color:var(--text)}
+    .logo-text span{color:var(--kick)}
+    .hdr-sep{flex:1}
+    .live-badge{
+      display:none;align-items:center;gap:6px;
+      padding:4px 10px;background:rgba(255,50,50,.12);border:1px solid rgba(255,50,50,.35);border-radius:2px;
+      font-family:var(--mono);font-size:.6rem;color:#ff5050;letter-spacing:.08em;
+    }
+    .live-badge.show{display:flex}
+    .live-badge::before{content:'';width:6px;height:6px;border-radius:50%;background:#ff5050;animation:glow-red 1s ease-in-out infinite}
+    @keyframes glow-red{0%,100%{opacity:1}50%{opacity:.3}}
+    .kick-link{
+      display:flex;align-items:center;gap:6px;
+      padding:5px 14px;border:1px solid var(--kick);border-radius:2px;
+      color:var(--kick);font-family:var(--mono);font-size:.63rem;letter-spacing:.07em;
+      text-decoration:none;transition:all .15s;flex-shrink:0;
+    }
+    .kick-link:hover{background:var(--kick-a);box-shadow:0 0 14px var(--kick-b)}
+
+    /* ─── HERO ─── */
+    .hero{position:relative;z-index:1;padding:3.5rem 1.75rem 2rem;max-width:1320px;margin:0 auto}
+    .hero-tag{
+      font-family:var(--mono);font-size:.62rem;color:var(--kick);
+      letter-spacing:.18em;text-transform:uppercase;margin-bottom:.75rem;
+      opacity:0;animation:up .45s ease forwards .05s;
+    }
+    .hero-h1{
+      font-family:var(--disp);font-weight:900;
+      font-size:clamp(3.5rem,9vw,8rem);line-height:.88;letter-spacing:-.03em;
+      margin-bottom:.5rem;
+      opacity:0;animation:up .45s ease forwards .1s;
+    }
+    .hero-h1 .g{color:var(--kick)}
+    .hero-sub{
+      font-family:var(--mono);font-size:.68rem;color:var(--muted);
+      margin-bottom:2.5rem;
+      opacity:0;animation:up .45s ease forwards .15s;
+    }
+    @keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+
+    /* ─── STATS ─── */
+    .stats{
+      display:flex;flex-wrap:wrap;gap:0;
+      border:1px solid var(--border);margin-bottom:2rem;
+      opacity:0;animation:up .45s ease forwards .2s;
+    }
+    .stat{
+      padding:.9rem 1.6rem;border-right:1px solid var(--border);
+      min-width:110px;
+    }
+    .stat:last-child{border-right:none}
+    .stat-n{font-family:var(--mono);font-size:1.05rem;font-weight:700;color:var(--kick)}
+    .stat-l{font-family:var(--mono);font-size:.58rem;color:var(--muted);letter-spacing:.1em;text-transform:uppercase;margin-top:3px}
+
+    /* ─── CONTROLS ─── */
+    .controls{
+      display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;
+      margin-bottom:1.5rem;
+      opacity:0;animation:up .45s ease forwards .25s;
+    }
+    .ctrl-btn{
+      padding:.45rem 1.1rem;
+      border:1px solid var(--border2);border-radius:2px;
+      background:none;color:var(--muted);
+      font-family:var(--mono);font-size:.63rem;letter-spacing:.07em;text-transform:uppercase;
+      cursor:pointer;transition:all .15s;
+    }
+    .ctrl-btn.on{border-color:var(--kick);color:var(--kick);background:var(--kick-b)}
+    .ctrl-btn:hover:not(.on){border-color:#333;color:var(--text)}
+    .ctrl-sep{width:1px;height:22px;background:var(--border);margin:0 .25rem}
+    .count-label{font-family:var(--mono);font-size:.6rem;color:var(--muted);margin-left:auto}
+
+    /* ─── GRID ─── */
+    .grid{
+      display:grid;
+      grid-template-columns:repeat(auto-fill,minmax(290px,1fr));
+      gap:1px;background:var(--border);border:1px solid var(--border);
+    }
+    .card{
+      background:var(--s1);overflow:hidden;
+      cursor:pointer;transition:background .15s;
+      opacity:0;
+    }
+    .card.show{animation:cardIn .35s ease forwards}
+    @keyframes cardIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    .card:hover{background:var(--s2)}
+
+    /* thumbnail */
+    .thumb{position:relative;aspect-ratio:16/9;overflow:hidden;background:#060606}
+    .thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease;image-rendering:auto}
+    .card:hover .thumb img{transform:scale(1.05)}
+    .thumb-ov{
+      position:absolute;inset:0;
+      display:flex;align-items:center;justify-content:center;
+      background:rgba(83,252,24,.07);
+      opacity:0;transition:opacity .2s;
+    }
+    .card:hover .thumb-ov{opacity:1}
+    .play-btn{
+      width:46px;height:46px;border-radius:50%;
+      background:rgba(0,0,0,.78);border:2px solid var(--kick);
+      display:flex;align-items:center;justify-content:center;
+    }
+    .dur-tag{
+      position:absolute;bottom:7px;right:7px;
+      background:rgba(0,0,0,.88);border:1px solid var(--border);
+      padding:2px 7px;font-family:var(--mono);font-size:.59rem;color:var(--text);
+    }
+    .clip-tag{
+      position:absolute;top:7px;left:7px;
+      background:var(--kick);color:#000;
+      padding:2px 7px;font-family:var(--mono);font-size:.54rem;font-weight:700;letter-spacing:.1em;
+    }
+
+    /* card body */
+    .card-body{padding:.85rem 1rem}
+    .card-date{font-family:var(--mono);font-size:.57rem;color:var(--kick);letter-spacing:.07em;margin-bottom:4px}
+    .card-title{
+      font-family:var(--disp);font-weight:700;font-size:.95rem;line-height:1.25;
+      display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+      margin-bottom:.5rem;
+    }
+    .card-foot{display:flex;gap:.6rem;align-items:center;flex-wrap:wrap}
+    .card-views{font-family:var(--mono);font-size:.59rem;color:var(--muted)}
+    .card-cat{
+      font-family:var(--mono);font-size:.56rem;color:var(--muted2);
+      border:1px solid var(--border);padding:1px 6px;
+    }
+
+    /* ─── LOADING ─── */
+    .loading{
+      grid-column:1/-1;
+      display:flex;flex-direction:column;align-items:center;justify-content:center;
+      padding:5rem;gap:1rem;background:var(--s1);
+    }
+    .spinner{
+      width:22px;height:22px;border-radius:50%;
+      border:2px solid var(--border2);border-top-color:var(--kick);
+      animation:spin .7s linear infinite;
+    }
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .loading p{font-family:var(--mono);font-size:.7rem;color:var(--muted)}
+
+    /* ─── EMPTY ─── */
+    .empty{
+      grid-column:1/-1;padding:4rem;text-align:center;
+      font-family:var(--mono);font-size:.72rem;color:var(--muted);
+      background:var(--s1);
+    }
+    .empty-icon{font-size:2.5rem;margin-bottom:1rem;opacity:.2}
+
+    /* ─── ERROR ─── */
+    .error-bar{
+      background:rgba(255,80,80,.07);border:1px solid rgba(255,80,80,.2);
+      padding:.75rem 1.25rem;margin-bottom:1.5rem;
+      font-family:var(--mono);font-size:.68rem;color:#ff6060;
+      display:none;
+    }
+    .error-bar.show{display:block}
+
+    /* ─── FOOTER ─── */
+    footer{
+      margin-top:4rem;padding:2rem 1.75rem;
+      border-top:1px solid var(--border);
+      font-family:var(--mono);font-size:.6rem;color:var(--muted);
+      display:flex;align-items:center;gap:1rem;flex-wrap:wrap;
+    }
+    footer a{color:var(--kick);text-decoration:none}
+    footer a:hover{text-decoration:underline}
+    .footer-dot{width:3px;height:3px;border-radius:50%;background:var(--border2)}
+
+    /* ─── RESPONSIVE ─── */
+    @media(max-width:640px){
+      .hero{padding:2rem 1rem 1.5rem}
+      .hero-h1{font-size:3.2rem}
+      header{padding:0 1rem}
+      .stat{padding:.7rem 1rem;min-width:80px}
+      .grid{grid-template-columns:1fr}
+      footer{flex-direction:column;gap:.5rem}
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <a class="logo" href="#">
+    <div class="logo-dot"></div>
+    <span class="logo-text">razvwi<span>.</span>archive</span>
+  </a>
+  <div class="hdr-sep"></div>
+  <div class="live-badge" id="liveBadge">LIVE ACUM</div>
+  <a class="kick-link" href="https://kick.com/razvwi" target="_blank" rel="noopener">
+    <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor"><path d="M11.64 5.93L9.64 3.93H3v17h6.64l2-2H5V5.93h6.64zM21 3.93h-6.64l-8 8 8 8H21l-8-8 8-8z"/></svg>
+    KICK.COM
+  </a>
+</header>
+
+<main class="hero" style="position:relative;z-index:1">
+
+  <div class="hero-tag">// VOD &amp; Clip Archive</div>
+  <h1 class="hero-h1">razvwi<span class="g">.</span></h1>
+  <p class="hero-sub">kick.com/razvwi — toate stream-urile &amp; clipurile, salvate automat</p>
+
+  <div class="stats" id="stats">
+    <div class="stat"><div class="stat-n" id="sVods">—</div><div class="stat-l">VOD-uri</div></div>
+    <div class="stat"><div class="stat-n" id="sClips">—</div><div class="stat-l">Clipuri</div></div>
+    <div class="stat"><div class="stat-n" id="sFollowers">—</div><div class="stat-l">Followeri</div></div>
+    <div class="stat"><div class="stat-n" id="sStatus">—</div><div class="stat-l">Status</div></div>
+  </div>
+
+  <div class="controls" id="controls">
+    <button class="ctrl-btn on" data-tab="vod">VOD-uri</button>
+    <button class="ctrl-btn" data-tab="clip">Clipuri</button>
+    <div class="ctrl-sep"></div>
+    <button class="ctrl-btn on" data-sort="latest">Recente</button>
+    <button class="ctrl-btn" data-sort="oldest">Vechi</button>
+    <button class="ctrl-btn" data-sort="views">Vizualizări</button>
+    <div class="ctrl-sep"></div>
+    <span class="count-label" id="countLabel"></span>
+  </div>
+
+  <div class="error-bar" id="errorBar">
+    ⚠ Nu s-au putut încărca datele de pe Kick. Se afișează date salvate anterior.
+  </div>
+
+  <div class="grid" id="grid">
+    <div class="loading">
+      <div class="spinner"></div>
+      <p>Se preiau VOD-urile de pe Kick...</p>
+    </div>
+  </div>
+
+</main>
+
+<footer>
+  <span>razvwi.archive</span>
+  <div class="footer-dot"></div>
+  <span>actualizat automat de la <a href="https://kick.com/razvwi" target="_blank">kick.com/razvwi</a></span>
+  <div class="footer-dot"></div>
+  <span id="lastUpdated"></span>
+</footer>
+
+<script>
+  // ─── STATE ───────────────────────────────────────────
+  let allVideos = [];
+  let allClips  = [];
+  let tab  = 'vod';
+  let sort = 'latest';
+
+  // ─── UTILS ───────────────────────────────────────────
+  function fmtNum(n){
+    if(!n || isNaN(n)) return '0';
+    if(n>=1000000) return (n/1000000).toFixed(1)+'M';
+    if(n>=1000) return (n/1000).toFixed(1)+'K';
+    return String(n);
+  }
+
+  function fmtDate(str){
+    if(!str) return '';
+    const d = new Date(str);
+    if(isNaN(d)) return str;
+    return d.toLocaleDateString('ro-RO',{day:'2-digit',month:'short',year:'numeric'});
+  }
+
+  function timeAgo(str){
+    if(!str) return '';
+    const d=new Date(str), now=new Date();
+    const diff=Math.floor((now-d)/86400000);
+    if(diff===0) return 'azi';
+    if(diff===1) return 'ieri';
+    if(diff<7) return `acum ${diff} zile`;
+    if(diff<30) return `acum ${Math.floor(diff/7)} săpt.`;
+    if(diff<365) return `acum ${Math.floor(diff/30)} luni`;
+    return `acum ${Math.floor(diff/365)} ani`;
+  }
+
+  // ─── RENDER ──────────────────────────────────────────
+  function getItems(){
+    const items = tab==='vod' ? allVideos : allClips;
+    return [...items].sort((a,b)=>{
+      if(sort==='latest') return new Date(b.date)-new Date(a.date);
+      if(sort==='oldest') return new Date(a.date)-new Date(b.date);
+      if(sort==='views')  return (b.views||0)-(a.views||0);
+      return 0;
+    });
+  }
+
+  function renderGrid(){
+    const grid = document.getElementById('grid');
+    const items = getItems();
+
+    document.getElementById('countLabel').textContent = `${items.length} rezultate`;
+
+    if(!items.length){
+      grid.innerHTML=`<div class="empty"><div class="empty-icon">📭</div>Nu există ${tab==='vod'?'VOD-uri':'clipuri'} momentan.</div>`;
+      return;
+    }
+
+    grid.innerHTML = items.map((item,i)=>`
+      <div class="card" style="animation-delay:${Math.min(i*0.04,0.6)}s" onclick="openItem('${item.url}')">
+        <div class="thumb">
+          <img src="${item.thumb}" alt="${escHtml(item.title)}" loading="lazy"
+               onerror="this.src='https://placehold.co/480x270/0f0f0f/53fc18?text=razvwi'"/>
+          <div class="thumb-ov">
+            <div class="play-btn">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="#53fc18"><polygon points="5,3 19,12 5,21"/></svg>
+            </div>
+          </div>
+          ${item.duration !== '—' ? `<div class="dur-tag">${item.duration}</div>` : ''}
+          ${item.type==='clip' ? '<div class="clip-tag">CLIP</div>' : ''}
+        </div>
+        <div class="card-body">
+          <div class="card-date">${timeAgo(item.date)} &nbsp;·&nbsp; ${fmtDate(item.date)}</div>
+          <div class="card-title">${escHtml(item.title)}</div>
+          <div class="card-foot">
+            <span class="card-views">👁 ${fmtNum(item.views)} views</span>
+            ${item.category ? `<span class="card-cat">${escHtml(item.category)}</span>` : ''}
+          </div>
+        </div>
+      </div>
+    `).join('');
+
+    // stagger animation
+    grid.querySelectorAll('.card').forEach(c=>c.classList.add('show'));
+  }
+
+  function escHtml(s){
+    return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function openItem(url){
+    window.open(url,'_blank','noopener');
+  }
+
+  // ─── FETCH ───────────────────────────────────────────
+  async function loadData(){
+    const grid = document.getElementById('grid');
+
+    // Încearcă să ia datele din cache local mai întâi (ca să nu fie blank)
+    const cached = localStorage.getItem('razvwi_cache');
+    if(cached){
+      try{
+        const {videos,clips,channel,ts} = JSON.parse(cached);
+        allVideos = videos||[];
+        allClips  = clips||[];
+        updateStats(channel||{}, allVideos.length, allClips.length);
+        renderGrid();
+        const ago = Math.floor((Date.now()-ts)/60000);
+        document.getElementById('lastUpdated').textContent = `cache: acum ${ago} min`;
+      }catch(e){}
+    }
+
+    // Fetch live de la API-ul nostru Vercel
+    try{
+      const res = await fetch('./data.json');
+      if(!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      if(data.error) throw new Error(data.error);
+
+      allVideos = data.videos || [];
+      allClips  = data.clips  || [];
+
+      updateStats(data.channel||{}, allVideos.length, allClips.length);
+      renderGrid();
+
+      // Salvează în cache
+      localStorage.setItem('razvwi_cache', JSON.stringify({
+        videos: allVideos,
+        clips: allClips,
+        channel: data.channel,
+        ts: Date.now()
+      }));
+
+      document.getElementById('lastUpdated').textContent =
+        `actualizat: ${new Date().toLocaleTimeString('ro-RO')}`;
+
+    }catch(err){
+      console.warn('API error:', err);
+      document.getElementById('errorBar').classList.add('show');
+      if(!allVideos.length && !allClips.length){
+        grid.innerHTML=`<div class="empty"><div class="empty-icon">⚠️</div>Nu s-au putut încărca datele.<br>Verifică că site-ul e deploy-at pe Vercel.</div>`;
+      }
+    }
+  }
+
+  function updateStats(ch, vodCount, clipCount){
+    document.getElementById('sVods').textContent     = fmtNum(vodCount);
+    document.getElementById('sClips').textContent    = fmtNum(clipCount);
+    document.getElementById('sFollowers').textContent= ch.followers ? fmtNum(ch.followers) : '—';
+    document.getElementById('sStatus').textContent   = ch.isLive ? '🔴 LIVE' : 'OFFLINE';
+    document.getElementById('sStatus').style.color   = ch.isLive ? '#ff5050' : '#53fc18';
+    if(ch.isLive) document.getElementById('liveBadge').classList.add('show');
+  }
+
+  // ─── CONTROLS ────────────────────────────────────────
+  document.getElementById('controls').addEventListener('click', e=>{
+    const btn = e.target.closest('.ctrl-btn');
+    if(!btn) return;
+    const t = btn.dataset.tab, s = btn.dataset.sort;
+    if(t){
+      tab = t;
+      document.querySelectorAll('[data-tab]').forEach(b=>b.classList.toggle('on', b.dataset.tab===t));
+    }
+    if(s){
+      sort = s;
+      document.querySelectorAll('[data-sort]').forEach(b=>b.classList.toggle('on', b.dataset.sort===s));
+    }
+    renderGrid();
+  });
+
+  // ─── INIT ─────────────────────────────────────────────
+  loadData();
+</script>
+</body>
+</html>
