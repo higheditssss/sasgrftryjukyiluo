@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "107759865",
+      "type": "vod",
+      "title": "Live chill fara web, sunt rupt in gura de racit, amin",
+      "date": "2026-05-07 19:12:45",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/cwLyJfviK8NH/720.webp?versionId=EkGC7_1RKyapDeJB5UbZzjedLXjjxPah",
+      "url": "https://kick.com/video/f0abd391-8e1f-4e02-a344-34db44fd0c7d"
+    },
+    {
       "id": "107498700",
       "type": "vod",
       "title": "🤍LIVE🤍O🤍INIMA🤍PENTRU🤍O🤍LUME🤍MAI🤍BUNA🤍MULT🤍NOROC🤍SA🤍AVETI🤍MARTI🤍REACTII🤍JOACA🤍TUNETE🤍FULGERE🤍SIX🤍SEVEN🤍SEVEN🤍SIX🤍",
       "date": "2026-05-05 19:33:38",
       "duration": "5845:00:00",
-      "views": 50,
+      "views": 52,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/9XAbfquYtigs/720.webp",
       "url": "https://kick.com/video/c8d3f5e6-a0b7-4e15-b23d-f760bf6d88a6"
@@ -209,7 +220,7 @@
       "title": "depressionless",
       "date": "2026-04-14 21:27:22",
       "duration": "3430:33:20",
-      "views": 104,
+      "views": 106,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/iKvbSxUtRO9o/720.webp",
       "url": "https://kick.com/video/62daf6cd-030f-41b0-b12e-5a20728eacb0"
@@ -475,11 +486,11 @@
       "title": "real",
       "date": "2026-03-06T00:02:50.095921Z",
       "duration": "0:30",
-      "views": 2,
+      "views": 3,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/3d/clip_01KK0789Z3NC5Z23NK77V44V5V/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KK0789Z3NC5Z23NK77V44V5V"
     }
   ],
-  "fetched": "2026-05-07T14:39:28.285234+00:00"
+  "fetched": "2026-05-07T19:50:02.508493+00:00"
 }
