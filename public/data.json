@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "107910745",
+      "type": "vod",
+      "title": "oamenii se schimba, fiti buni",
+      "date": "2026-05-08 20:51:49",
+      "duration": "5217:46:40",
+      "views": 26,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/uBPflPsrf3Nu/720.webp",
+      "url": "https://kick.com/video/94a65280-784d-4d0f-a998-c2de80e01ae9"
+    },
+    {
       "id": "107759865",
       "type": "vod",
       "title": "Live chill fara web, sunt rupt in gura de racit, amin",
       "date": "2026-05-07 19:12:45",
       "duration": "4611:23:20",
-      "views": 54,
+      "views": 58,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/cwLyJfviK8NH/720.webp",
       "url": "https://kick.com/video/f0abd391-8e1f-4e02-a344-34db44fd0c7d"
@@ -22,7 +33,7 @@
       "title": "🤍LIVE🤍O🤍INIMA🤍PENTRU🤍O🤍LUME🤍MAI🤍BUNA🤍MULT🤍NOROC🤍SA🤍AVETI🤍MARTI🤍REACTII🤍JOACA🤍TUNETE🤍FULGERE🤍SIX🤍SEVEN🤍SEVEN🤍SIX🤍",
       "date": "2026-05-05 19:33:38",
       "duration": "5845:00:00",
-      "views": 60,
+      "views": 62,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/9XAbfquYtigs/720.webp",
       "url": "https://kick.com/video/c8d3f5e6-a0b7-4e15-b23d-f760bf6d88a6"
@@ -261,6 +272,17 @@
   ],
   "clips": [
     {
+      "id": "clip_01KR4XQC4D4YQB2X7E3M09S3XX",
+      "type": "clip",
+      "title": "timi",
+      "date": "2026-05-08T23:11:01.66877Z",
+      "duration": "1:00",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://clips.kick.com/clips/e3/clip_01KR4XQC4D4YQB2X7E3M09S3XX/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01KR4XQC4D4YQB2X7E3M09S3XX"
+    },
+    {
       "id": "clip_01KQN4HCTXTPXR8VA1KNDX1MAG",
       "type": "clip",
       "title": "amanna",
@@ -468,18 +490,7 @@
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/de/clip_01KK2CCXSFT78X4MZBZTWY2DYA/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KK2CCXSFT78X4MZBZTWY2DYA"
-    },
-    {
-      "id": "clip_01KK0789Z3NC5Z23NK77V44V5V",
-      "type": "clip",
-      "title": "real",
-      "date": "2026-03-06T00:02:50.095921Z",
-      "duration": "0:30",
-      "views": 3,
-      "category": "Just Chatting",
-      "thumb": "https://clips.kick.com/clips/3d/clip_01KK0789Z3NC5Z23NK77V44V5V/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KK0789Z3NC5Z23NK77V44V5V"
     }
   ],
-  "fetched": "2026-05-08T19:40:46.813454+00:00"
+  "fetched": "2026-05-09T03:47:22.025454+00:00"
 }
