@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "108180098",
+      "type": "vod",
+      "title": "⚽OF DOAMNE⚽LIVE⚽DUMINICA⚽CE⚽MECI⚽MARE⚽VISCA⚽BARCA⚽EZ⚽GAME⚽FOR⚽US⚽",
+      "date": "2026-05-10 18:59:30",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/YBY0XFN15zPL/720.webp?versionId=EZbNrDrh9FjOma2soTM5wJQoyBznucTS",
+      "url": "https://kick.com/video/33ec36d2-b66f-463d-99cc-14ec26e76c88"
+    },
+    {
       "id": "108042390",
       "type": "vod",
       "title": "VALORANT PRO PLAYER, LIVE, SAMBATA, VICHEND, HAIDETI, E CHIAR LIVE !!!",
       "date": "2026-05-09 19:31:19",
       "duration": "5712:46:40",
-      "views": 39,
+      "views": 43,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/qQ85lB8dvsTr/720.webp",
       "url": "https://kick.com/video/7c397897-e896-41ad-bfaa-6ebbaa70c0f8"
@@ -22,7 +33,7 @@
       "title": "oamenii se schimba, fiti buni",
       "date": "2026-05-08 20:51:49",
       "duration": "5217:46:40",
-      "views": 55,
+      "views": 59,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/uBPflPsrf3Nu/720.webp",
       "url": "https://kick.com/video/94a65280-784d-4d0f-a998-c2de80e01ae9"
@@ -33,7 +44,7 @@
       "title": "Live chill fara web, sunt rupt in gura de racit, amin",
       "date": "2026-05-07 19:12:45",
       "duration": "4611:23:20",
-      "views": 72,
+      "views": 74,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/cwLyJfviK8NH/720.webp",
       "url": "https://kick.com/video/f0abd391-8e1f-4e02-a344-34db44fd0c7d"
@@ -288,7 +299,7 @@
       "title": "timi",
       "date": "2026-05-08T23:11:01.66877Z",
       "duration": "1:00",
-      "views": 7,
+      "views": 8,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/e3/clip_01KR4XQC4D4YQB2X7E3M09S3XX/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KR4XQC4D4YQB2X7E3M09S3XX"
@@ -503,5 +514,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KK2CCXSFT78X4MZBZTWY2DYA"
     }
   ],
-  "fetched": "2026-05-10T13:47:20.106951+00:00"
+  "fetched": "2026-05-10T19:16:44.553445+00:00"
 }
