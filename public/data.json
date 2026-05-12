@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "108446492",
+      "type": "vod",
+      "title": "⛪IRL⛪DE⛪LA⛪BISERICA⛪MERGEM⛪DUPA⛪LA⛪MANASTIRE⛪HAIDETI⛪TOTI⛪PE⛪DRUMUL⛪CALAUZIT⛪",
+      "date": "2026-05-12 19:33:56",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/BPGEeOULvNX7/720.webp?versionId=pPZA_E7ynd2vHchavUqOtQzLWFGa2rHn",
+      "url": "https://kick.com/video/800834d1-cc06-4d0c-ba61-2d184a4863c6"
+    },
+    {
       "id": "108303711",
       "type": "vod",
       "title": "🫩OKEI🫩FRATE🫩IE🫩LUNI🫩LIVE DE LUNI🫩LUNI BUNE🫩DE🫩CAND🫩E🫩TOT🫩LUNI🫩SCHIZO🫩",
       "date": "2026-05-11 18:55:17",
       "duration": "5073:03:20",
-      "views": 52,
+      "views": 54,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/mDVjIKDfjTiQ/720.webp",
       "url": "https://kick.com/video/033b5657-15a6-48b7-aa48-e31cb596aaf0"
@@ -22,7 +33,7 @@
       "title": "⚽OF DOAMNE⚽LIVE⚽DUMINICA⚽CE⚽MECI⚽MARE⚽VISCA⚽BARCA⚽EZ⚽GAME⚽FOR⚽US⚽",
       "date": "2026-05-10 18:59:30",
       "duration": "5316:23:20",
-      "views": 49,
+      "views": 51,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/YBY0XFN15zPL/720.webp",
       "url": "https://kick.com/video/33ec36d2-b66f-463d-99cc-14ec26e76c88"
@@ -44,7 +55,7 @@
       "title": "oamenii se schimba, fiti buni",
       "date": "2026-05-08 20:51:49",
       "duration": "5217:46:40",
-      "views": 69,
+      "views": 71,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/uBPflPsrf3Nu/720.webp",
       "url": "https://kick.com/video/94a65280-784d-4d0f-a998-c2de80e01ae9"
@@ -503,5 +514,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KK2CCXSFT78X4MZBZTWY2DYA"
     }
   ],
-  "fetched": "2026-05-12T14:43:18.227035+00:00"
+  "fetched": "2026-05-12T20:03:59.691268+00:00"
 }
