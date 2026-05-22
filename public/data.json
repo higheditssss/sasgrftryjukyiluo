@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "109782278",
+      "type": "vod",
+      "title": "🏎️PRO🏎️FORMULA🏎️DRIVER🏎️HAI🏎️VITEZA🏎️DE🏎️NEINTELES🏎️NECONCEPUT🏎️HAI🏎️BINE🏎️VINERI🏎️LIVE🏎️DIMINEASA🏎️",
+      "date": "2026-05-22 19:06:55",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/fitBDB4tj2oJ/720.webp?versionId=NS25PecAwpiqYWcD7fa7RorpKHlnxANS",
+      "url": "https://kick.com/video/0409096f-c8e3-49d4-83e3-b9cd274dab23"
+    },
+    {
       "id": "109648274",
       "type": "vod",
       "title": "➡️JOI➡️GRIND➡️PE➡️FORZA➡️REACTII➡️DE➡️TOATE➡️DIMINEATA➡️HAIDATZI➡️VENITZI➡️PAINE➡️CALDA➡️GRATISZ➡️",
       "date": "2026-05-21 18:49:16",
       "duration": "6191:06:40",
-      "views": 10,
+      "views": 14,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/PIuTFa9JQ3gl/720.webp",
       "url": "https://kick.com/video/1691beda-f7b1-4073-b57c-84872e313e65"
@@ -22,7 +33,7 @@
       "title": "➡️LAIV➡️MARTI➡️SEARA➡️MAMTREZIT➡️DIN➡️MORTZI➡️DIMINEATA➡️REVENIRE➡️SLUGA➡️SAGATA➡️LA➡️DREAPTA➡️HAI➡️",
       "date": "2026-05-19 20:34:01",
       "duration": "6163:36:40",
-      "views": 66,
+      "views": 68,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/Z6LqAE6CHzqh/720.webp",
       "url": "https://kick.com/video/2bad114b-a1a7-435e-ae74-66fb212ca58b"
@@ -246,17 +257,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/inAVJcJ401wE/720.webp",
       "url": "https://kick.com/video/8e67e15b-03a1-43a2-9bb8-9f55c792c88d"
-    },
-    {
-      "id": "105796786",
-      "type": "vod",
-      "title": "🐕 SLUJBA 🐕 FARA SLUJBA 🐕 LIVE 🐕 MIERCURI 🐕 REACTII 🐕 SCANDAL 🐕 CEARTA 🐕 DRAMA 🐕 JOCURI 🐕 DIMINEATA 🐕",
-      "date": "2026-04-22 17:54:34",
-      "duration": "5285:16:40",
-      "views": 75,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/oLka07SVYFlr/720.webp",
-      "url": "https://kick.com/video/d8540ba4-b720-4ebe-b8ac-09fc5677af40"
     }
   ],
   "clips": [
@@ -481,5 +481,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KK2CCXSFT78X4MZBZTWY2DYA"
     }
   ],
-  "fetched": "2026-05-22T14:56:11.543900+00:00"
+  "fetched": "2026-05-22T20:00:27.347691+00:00"
 }
