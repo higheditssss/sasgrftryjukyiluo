@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "109913718",
+      "type": "vod",
+      "title": "👮MAMANGAJAT👮SUNT👮POLISIST👮HAIDETI👮AMENZI👮PE👮LIVE👮FACEM👮NORMA👮SAMBATA👮VICHEND👮MEOW👮",
+      "date": "2026-05-23 18:13:43",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/34wqjBqNL4AX/720.webp?versionId=GadhD8cyAO_rWlkZmjh2fcSCWY_nbkkL",
+      "url": "https://kick.com/video/6684e757-1297-4882-a2ab-8aa4ae9f0b0f"
+    },
+    {
       "id": "109782278",
       "type": "vod",
       "title": "🏎️PRO🏎️FORMULA🏎️DRIVER🏎️HAI🏎️VITEZA🏎️DE🏎️NEINTELES🏎️NECONCEPUT🏎️HAI🏎️BINE🏎️VINERI🏎️LIVE🏎️DIMINEASA🏎️",
       "date": "2026-05-22 19:06:55",
       "duration": "5602:30:00",
-      "views": 19,
+      "views": 21,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/fitBDB4tj2oJ/720.webp",
       "url": "https://kick.com/video/0409096f-c8e3-49d4-83e3-b9cd274dab23"
@@ -22,7 +33,7 @@
       "title": "➡️JOI➡️GRIND➡️PE➡️FORZA➡️REACTII➡️DE➡️TOATE➡️DIMINEATA➡️HAIDATZI➡️VENITZI➡️PAINE➡️CALDA➡️GRATISZ➡️",
       "date": "2026-05-21 18:49:16",
       "duration": "6191:06:40",
-      "views": 18,
+      "views": 20,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/PIuTFa9JQ3gl/720.webp",
       "url": "https://kick.com/video/1691beda-f7b1-4073-b57c-84872e313e65"
@@ -33,7 +44,7 @@
       "title": "➡️LAIV➡️MARTI➡️SEARA➡️MAMTREZIT➡️DIN➡️MORTZI➡️DIMINEATA➡️REVENIRE➡️SLUGA➡️SAGATA➡️LA➡️DREAPTA➡️HAI➡️",
       "date": "2026-05-19 20:34:01",
       "duration": "6163:36:40",
-      "views": 70,
+      "views": 72,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/Z6LqAE6CHzqh/720.webp",
       "url": "https://kick.com/video/2bad114b-a1a7-435e-ae74-66fb212ca58b"
@@ -246,17 +257,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/EWgH3ozPFuKR/720.webp",
       "url": "https://kick.com/video/c589b25f-64fc-479b-95c2-0dbc99be0b5f"
-    },
-    {
-      "id": "105928823",
-      "type": "vod",
-      "title": "🍊 LIVE 🍊 JOI 🍊 DIMINEATA 🍊 JOACA 🍊 REACTII 🍊 HAIDETI 🍊 BINE OAMENILOR 🍊 OMULETi 🍊 FANTASTICI 🍊",
-      "date": "2026-04-23 18:20:54",
-      "duration": "6397:46:40",
-      "views": 69,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/inAVJcJ401wE/720.webp",
-      "url": "https://kick.com/video/8e67e15b-03a1-43a2-9bb8-9f55c792c88d"
     }
   ],
   "clips": [
@@ -481,5 +481,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KK2CCXSFT78X4MZBZTWY2DYA"
     }
   ],
-  "fetched": "2026-05-23T13:56:02.944710+00:00"
+  "fetched": "2026-05-23T19:22:55.551698+00:00"
 }
