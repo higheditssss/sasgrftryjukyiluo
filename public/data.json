@@ -11,7 +11,7 @@
       "title": "🥲LIVE🥲LUNI🥲DEVREME🥲PT🥲MINE🥲HAIDETI🥲JOACA🥲REACTII🥲DIMINEASA🥲",
       "date": "2026-05-25 16:02:13",
       "duration": "7811:40:00",
-      "views": 42,
+      "views": 44,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/zjEPQg6yU5WF/720.webp",
       "url": "https://kick.com/video/af834ce8-b34f-40db-93f4-2a7ed26ac849"
@@ -22,7 +22,7 @@
       "title": "📱IPAD📱KID📱LIVE📱TARZIU📱DUMINIKA📱LUNI📱MARTZI📱MERKURI📱REACTII📱JOACA📱QUIZ📱CEL📱MAI📱INTELIGENT📱PAMANTEAN📱",
       "date": "2026-05-24 18:58:46",
       "duration": "6075:50:00",
-      "views": 51,
+      "views": 55,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/lADtj4EGH1P8/720.webp",
       "url": "https://kick.com/video/b20115a3-1847-4d37-afc6-7bc91c1c4266"
@@ -33,7 +33,7 @@
       "title": "👮MAMANGAJAT👮SUNT👮POLISIST👮HAIDETI👮AMENZI👮PE👮LIVE👮FACEM👮NORMA👮SAMBATA👮VICHEND👮MEOW👮",
       "date": "2026-05-23 18:13:43",
       "duration": "6582:13:20",
-      "views": 84,
+      "views": 86,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/34wqjBqNL4AX/720.webp",
       "url": "https://kick.com/video/6684e757-1297-4882-a2ab-8aa4ae9f0b0f"
@@ -44,7 +44,7 @@
       "title": "🏎️PRO🏎️FORMULA🏎️DRIVER🏎️HAI🏎️VITEZA🏎️DE🏎️NEINTELES🏎️NECONCEPUT🏎️HAI🏎️BINE🏎️VINERI🏎️LIVE🏎️DIMINEASA🏎️",
       "date": "2026-05-22 19:06:55",
       "duration": "5602:30:00",
-      "views": 33,
+      "views": 35,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/fitBDB4tj2oJ/720.webp",
       "url": "https://kick.com/video/0409096f-c8e3-49d4-83e3-b9cd274dab23"
@@ -55,7 +55,7 @@
       "title": "➡️JOI➡️GRIND➡️PE➡️FORZA➡️REACTII➡️DE➡️TOATE➡️DIMINEATA➡️HAIDATZI➡️VENITZI➡️PAINE➡️CALDA➡️GRATISZ➡️",
       "date": "2026-05-21 18:49:16",
       "duration": "6191:06:40",
-      "views": 34,
+      "views": 36,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/PIuTFa9JQ3gl/720.webp",
       "url": "https://kick.com/video/1691beda-f7b1-4073-b57c-84872e313e65"
@@ -283,12 +283,23 @@
   ],
   "clips": [
     {
+      "id": "clip_01KSHK1MAJTNKNWB0S2R6XWVQH",
+      "type": "clip",
+      "title": "KICK Bounties",
+      "date": "2026-05-26T07:30:34.519679Z",
+      "duration": "0:30",
+      "views": 2,
+      "category": "Just Chatting",
+      "thumb": "https://clips.kick.com/clips/6c/clip_01KSHK1MAJTNKNWB0S2R6XWVQH/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01KSHK1MAJTNKNWB0S2R6XWVQH"
+    },
+    {
       "id": "clip_01KSGGZ26JX743MMP0778DVBZM",
       "type": "clip",
       "title": "KICK Bounties 3",
       "date": "2026-05-25T21:36:29.561301Z",
       "duration": "0:12",
-      "views": 5,
+      "views": 6,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/41/clip_01KSGGZ26JX743MMP0778DVBZM/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSGGZ26JX743MMP0778DVBZM"
@@ -310,7 +321,7 @@
       "title": "KICK bounties 2",
       "date": "2026-05-25T21:18:54.655571Z",
       "duration": "0:15",
-      "views": 4,
+      "views": 5,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/d6/clip_01KSGG09CRHCPSDN68ASAP90EK/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSGG09CRHCPSDN68ASAP90EK"
@@ -490,18 +501,7 @@
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/16/clip_01KNYQPZ7S3SAADH1RFEJK538D/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KNYQPZ7S3SAADH1RFEJK538D"
-    },
-    {
-      "id": "clip_01KNWXXF1PGD600YBJW7EBZ9KZ",
-      "type": "clip",
-      "title": "aaaaa nori",
-      "date": "2026-04-11T00:10:17.938572Z",
-      "duration": "0:25",
-      "views": 4,
-      "category": "Just Chatting",
-      "thumb": "https://clips.kick.com/clips/12/clip_01KNWXXF1PGD600YBJW7EBZ9KZ/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KNWXXF1PGD600YBJW7EBZ9KZ"
     }
   ],
-  "fetched": "2026-05-26T04:19:13.325260+00:00"
+  "fetched": "2026-05-26T10:14:01.994725+00:00"
 }
