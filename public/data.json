@@ -10,10 +10,10 @@
       "type": "vod",
       "title": "🫩MARTI🫩LIVE🫩SCUZE🫩DE🫩INTARZIERE🫩HAIDATZI🫩PE🫩LAIV🫩REACTII🫩JOACA🫩DE🫩TUATE🫩",
       "date": "2026-05-26 19:36:45",
-      "duration": "—",
-      "views": 0,
+      "duration": "7012:13:20",
+      "views": 33,
       "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/WH6V93ZzY680/720.webp?versionId=0rHCS_HT5MF0L1wMUEojGi0j_UXoqgnT",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/WH6V93ZzY680/720.webp",
       "url": "https://kick.com/video/4abea8a8-4d20-4488-9647-5207d87ab118"
     },
     {
@@ -22,7 +22,7 @@
       "title": "🥲LIVE🥲LUNI🥲DEVREME🥲PT🥲MINE🥲HAIDETI🥲JOACA🥲REACTII🥲DIMINEASA🥲",
       "date": "2026-05-25 16:02:13",
       "duration": "7811:40:00",
-      "views": 46,
+      "views": 51,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/zjEPQg6yU5WF/720.webp",
       "url": "https://kick.com/video/af834ce8-b34f-40db-93f4-2a7ed26ac849"
@@ -33,7 +33,7 @@
       "title": "📱IPAD📱KID📱LIVE📱TARZIU📱DUMINIKA📱LUNI📱MARTZI📱MERKURI📱REACTII📱JOACA📱QUIZ📱CEL📱MAI📱INTELIGENT📱PAMANTEAN📱",
       "date": "2026-05-24 18:58:46",
       "duration": "6075:50:00",
-      "views": 57,
+      "views": 59,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/lADtj4EGH1P8/720.webp",
       "url": "https://kick.com/video/b20115a3-1847-4d37-afc6-7bc91c1c4266"
@@ -294,6 +294,39 @@
   ],
   "clips": [
     {
+      "id": "clip_01KSKMF29ABFM8NJE1NMSZEXJ7",
+      "type": "clip",
+      "title": "bounty 5",
+      "date": "2026-05-27T02:33:57.615009Z",
+      "duration": "0:27",
+      "views": 6,
+      "category": "KICK Bounties",
+      "thumb": "https://clips.kick.com/clips/72/clip_01KSKMF29ABFM8NJE1NMSZEXJ7/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01KSKMF29ABFM8NJE1NMSZEXJ7"
+    },
+    {
+      "id": "clip_01KSKHE654W6714YHZS96J33Y8",
+      "type": "clip",
+      "title": "bounty 4",
+      "date": "2026-05-27T01:40:57.114873Z",
+      "duration": "0:22",
+      "views": 7,
+      "category": "KICK Bounties",
+      "thumb": "https://clips.kick.com/clips/91/clip_01KSKHE654W6714YHZS96J33Y8/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
+    },
+    {
+      "id": "clip_01KSKF3E20ZB7Z9628M2KP8FS8",
+      "type": "clip",
+      "title": "bounty",
+      "date": "2026-05-27T01:00:32.327853Z",
+      "duration": "0:28",
+      "views": 9,
+      "category": "KICK Bounties",
+      "thumb": "https://clips.kick.com/clips/da/clip_01KSKF3E20ZB7Z9628M2KP8FS8/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01KSKF3E20ZB7Z9628M2KP8FS8"
+    },
+    {
       "id": "clip_01KSHK1MAJTNKNWB0S2R6XWVQH",
       "type": "clip",
       "title": "KICK Bounties",
@@ -479,40 +512,7 @@
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/40/clip_01KQN4HCTXTPXR8VA1KNDX1MAG/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KQN4HCTXTPXR8VA1KNDX1MAG"
-    },
-    {
-      "id": "clip_01KPHF8WPE60V7FNQZRAVW35YC",
-      "type": "clip",
-      "title": "W",
-      "date": "2026-04-18T23:37:40.294333Z",
-      "duration": "0:19",
-      "views": 4,
-      "category": "Just Chatting",
-      "thumb": "https://clips.kick.com/clips/69/clip_01KPHF8WPE60V7FNQZRAVW35YC/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KPHF8WPE60V7FNQZRAVW35YC"
-    },
-    {
-      "id": "clip_01KNYQSRJ3S539Q2Z8RZASCWQ7",
-      "type": "clip",
-      "title": "poseidon",
-      "date": "2026-04-11T17:00:38.075215Z",
-      "duration": "0:30",
-      "views": 14,
-      "category": "Just Chatting",
-      "thumb": "https://clips.kick.com/clips/e6/clip_01KNYQSRJ3S539Q2Z8RZASCWQ7/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KNYQSRJ3S539Q2Z8RZASCWQ7"
-    },
-    {
-      "id": "clip_01KNYQPZ7S3SAADH1RFEJK538D",
-      "type": "clip",
-      "title": "poseidon",
-      "date": "2026-04-11T16:59:07.273872Z",
-      "duration": "0:30",
-      "views": 2,
-      "category": "Just Chatting",
-      "thumb": "https://clips.kick.com/clips/16/clip_01KNYQPZ7S3SAADH1RFEJK538D/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KNYQPZ7S3SAADH1RFEJK538D"
     }
   ],
-  "fetched": "2026-05-26T20:22:56.441611+00:00"
+  "fetched": "2026-05-27T04:42:14.248140+00:00"
 }
