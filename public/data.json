@@ -6,12 +6,34 @@
   },
   "videos": [
     {
+      "id": "111130450",
+      "type": "vod",
+      "title": "❗LIVE❗RUPEM❗TACEREA❗VARA❗EVARA❗VACANTA❗LA❗MULTI❗ANI❗ADEVAR❗DRAMA❗SCANDAL❗REACTII❗JOACA❗",
+      "date": "2026-06-01 18:29:13",
+      "duration": "5518:03:20",
+      "views": 41,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/QVwD1hnoL0dm/720.webp",
+      "url": "https://kick.com/video/9c2e9755-e36e-4213-96d4-85088f277d89"
+    },
+    {
+      "id": "111129718",
+      "type": "vod",
+      "title": "❗LIVE❗RUPEM❗TACEREA❗VARA❗EVARA❗VACANTA❗LA❗MULTI❗ANI❗ADEVAR❗DRAMA❗SCANDAL❗REACTII❗JOACA❗",
+      "date": "2026-06-01 18:24:00",
+      "duration": "69:43:20",
+      "views": 13,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/lpSS5RNP0qAJ/720.webp",
+      "url": "https://kick.com/video/b881f666-9ef1-4127-ac2e-2f4016b6b5e5"
+    },
+    {
       "id": "111004905",
       "type": "vod",
       "title": "🐉IMBLANZITOR🐉DE🐉DRAGONI🐉EU🐉SUNT🐉LIVE🐉DUMINICA🐉ZIUA🐉COPILUUUULUUI🐉HAIDETI🐉SCUZE🐉BINE🐉HAI🐉",
       "date": "2026-05-31 19:30:34",
       "duration": "5265:16:40",
-      "views": 44,
+      "views": 46,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/re9SZDc6H6QD/720.webp",
       "url": "https://kick.com/video/748f1e12-3e65-4ca9-8193-4d13510b16bb"
@@ -257,17 +279,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/BESvAbnQE8Yl/720.webp",
       "url": "https://kick.com/video/a392157d-c866-47aa-8d30-c5d5cf890acd"
-    },
-    {
-      "id": "107107395",
-      "type": "vod",
-      "title": "am nevoie de titlu ajutor",
-      "date": "2026-05-02 19:15:56",
-      "duration": "5965:33:20",
-      "views": 123,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/vD1QaP4TSnYl/720.webp",
-      "url": "https://kick.com/video/e96be058-d86f-4fd3-8804-dfae211b4dc0"
     }
   ],
   "clips": [
@@ -321,7 +332,7 @@
       "title": "KICK Bounties 3",
       "date": "2026-05-25T21:36:29.561301Z",
       "duration": "0:12",
-      "views": 8,
+      "views": 9,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/41/clip_01KSGGZ26JX743MMP0778DVBZM/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSGGZ26JX743MMP0778DVBZM"
@@ -420,7 +431,7 @@
       "title": "messi",
       "date": "2026-05-23T20:49:43.571763Z",
       "duration": "0:15",
-      "views": 2,
+      "views": 3,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/11/clip_01KSB9JCGGVK1N9T8KABHPTGS7/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSB9JCGGVK1N9T8KABHPTGS7"
@@ -453,7 +464,7 @@
       "title": "win",
       "date": "2026-05-23T20:24:01.228352Z",
       "duration": "0:20",
-      "views": 1,
+      "views": 2,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/30/clip_01KSB83DBM9RZ0MC0CS1B5ETBH/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSB83DBM9RZ0MC0CS1B5ETBH"
@@ -492,5 +503,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KQN4HCTXTPXR8VA1KNDX1MAG"
     }
   ],
-  "fetched": "2026-06-01T18:12:58.780590+00:00"
+  "fetched": "2026-06-02T04:52:56.571177+00:00"
 }
