@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "111856449",
+      "type": "vod",
+      "title": "🌴CALDURA🌴TOPITOARE🌴OMULE🌴MARE🌴MARE🌴MARE🌴RAU🌴CONCERT🌴HAIDETI🌴LIVE🌴SAMBATA🌴VICHEND🌴",
+      "date": "2026-06-06 19:41:25",
+      "duration": "6246:06:40",
+      "views": 45,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/3vmkeBxzIbM5/720.webp",
+      "url": "https://kick.com/video/acc07aab-1a76-49b9-8505-b215fcebfb62"
+    },
+    {
       "id": "111701187",
       "type": "vod",
       "title": "🦓LIVE🦓ZERBRA🦓ZOO🦓INCHIDETI ZOO🦓VINERI🦓VICHEND🦓JOCTII🦓REACURI🦓HAIDETI🦓BINE🦓OMULETI🦓DRAMA🦓",
@@ -22,7 +33,7 @@
       "title": "✝️LIVE✝️JOI✝️DRAMA✝️AMIN✝️PUTEREA✝️ESTE✝️A✝️VOASTRA✝️REACTII✝️JOACA✝️HORROR??✝️HAIDETI✝️",
       "date": "2026-06-04 18:13:17",
       "duration": "6599:43:20",
-      "views": 53,
+      "views": 55,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/tJVaoyHFplrL/720.webp",
       "url": "https://kick.com/video/aca12efa-e02b-4f06-8864-bc18679cfce5"
@@ -77,7 +88,7 @@
       "title": "🐉IMBLANZITOR🐉DE🐉DRAGONI🐉EU🐉SUNT🐉LIVE🐉DUMINICA🐉ZIUA🐉COPILUUUULUUI🐉HAIDETI🐉SCUZE🐉BINE🐉HAI🐉",
       "date": "2026-05-31 19:30:34",
       "duration": "5265:16:40",
-      "views": 60,
+      "views": 62,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/re9SZDc6H6QD/720.webp",
       "url": "https://kick.com/video/748f1e12-3e65-4ca9-8193-4d13510b16bb"
@@ -110,7 +121,7 @@
       "title": "🫩MARTI🫩LIVE🫩SCUZE🫩DE🫩INTARZIERE🫩HAIDATZI🫩PE🫩LAIV🫩REACTII🫩JOACA🫩DE🫩TUATE🫩",
       "date": "2026-05-26 19:36:45",
       "duration": "7012:13:20",
-      "views": 90,
+      "views": 92,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/WH6V93ZzY680/720.webp",
       "url": "https://kick.com/video/4abea8a8-4d20-4488-9647-5207d87ab118"
@@ -121,7 +132,7 @@
       "title": "🥲LIVE🥲LUNI🥲DEVREME🥲PT🥲MINE🥲HAIDETI🥲JOACA🥲REACTII🥲DIMINEASA🥲",
       "date": "2026-05-25 16:02:13",
       "duration": "7811:40:00",
-      "views": 88,
+      "views": 90,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/zjEPQg6yU5WF/720.webp",
       "url": "https://kick.com/video/af834ce8-b34f-40db-93f4-2a7ed26ac849"
@@ -277,7 +288,7 @@
       "title": "bounty 5",
       "date": "2026-05-27T02:33:57.615009Z",
       "duration": "0:27",
-      "views": 14,
+      "views": 15,
       "category": "KICK Bounties",
       "thumb": "https://clips.kick.com/clips/72/clip_01KSKMF29ABFM8NJE1NMSZEXJ7/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSKMF29ABFM8NJE1NMSZEXJ7"
@@ -288,7 +299,7 @@
       "title": "bounty 4",
       "date": "2026-05-27T01:40:57.114873Z",
       "duration": "0:22",
-      "views": 13,
+      "views": 14,
       "category": "KICK Bounties",
       "thumb": "https://clips.kick.com/clips/91/clip_01KSKHE654W6714YHZS96J33Y8/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
@@ -299,7 +310,7 @@
       "title": "bounty",
       "date": "2026-05-27T01:00:32.327853Z",
       "duration": "0:28",
-      "views": 14,
+      "views": 16,
       "category": "KICK Bounties",
       "thumb": "https://clips.kick.com/clips/da/clip_01KSKF3E20ZB7Z9628M2KP8FS8/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSKF3E20ZB7Z9628M2KP8FS8"
@@ -492,5 +503,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KQN4HCTXTPXR8VA1KNDX1MAG"
     }
   ],
-  "fetched": "2026-06-06T19:42:04.468050+00:00"
+  "fetched": "2026-06-07T04:49:41.076835+00:00"
 }
