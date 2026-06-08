@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "112129831",
+      "type": "vod",
+      "title": "❤️LUNI❤️SPREAD❤️LOVE❤️BE❤️KIND❤️HAIDETI❤️JOCURI❤️REACTII❤️EVENIMENT❤️SPECIAL❤️VARA❤️IUBIRE❤️",
+      "date": "2026-06-08 18:24:10",
+      "duration": "—",
+      "views": 2,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/QDYBr9cTdGyi/720.webp?versionId=HKkbZf9J.TrEErxzuFYR5nNuZC6NnAkv",
+      "url": "https://kick.com/video/c2f3bf56-35c8-4271-8484-7bbe50054509"
+    },
+    {
       "id": "111989219",
       "type": "vod",
       "title": "🌞LIVEOI🌞CANICULOI🌞JOCULOI🌞REACTOI🌞INTRATOI🌞RASOI🌞GLUMOI🌞DRAMOI🌞DUMINICOI🌞SOROI🌞VAROI🌞VACANTOI🌞",
@@ -268,17 +279,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/YBY0XFN15zPL/720.webp",
       "url": "https://kick.com/video/33ec36d2-b66f-463d-99cc-14ec26e76c88"
-    },
-    {
-      "id": "108042390",
-      "type": "vod",
-      "title": "VALORANT PRO PLAYER, LIVE, SAMBATA, VICHEND, HAIDETI, E CHIAR LIVE !!!",
-      "date": "2026-05-09 19:31:19",
-      "duration": "5712:46:40",
-      "views": 65,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/qQ85lB8dvsTr/720.webp",
-      "url": "https://kick.com/video/7c397897-e896-41ad-bfaa-6ebbaa70c0f8"
     }
   ],
   "clips": [
@@ -354,7 +354,7 @@
       "title": "KICK bounties 2",
       "date": "2026-05-25T21:18:54.655571Z",
       "duration": "0:15",
-      "views": 10,
+      "views": 11,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/d6/clip_01KSGG09CRHCPSDN68ASAP90EK/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSGG09CRHCPSDN68ASAP90EK"
@@ -503,5 +503,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KQN4HCTXTPXR8VA1KNDX1MAG"
     }
   ],
-  "fetched": "2026-06-08T16:11:23.515935+00:00"
+  "fetched": "2026-06-08T20:28:14.863670+00:00"
 }
