@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "113168272",
+      "type": "vod",
+      "title": "MATINAL SCURT 2 OIRE",
+      "date": "2026-06-15 21:07:09",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/TCjaBMAeieRl/720.webp?versionId=7tHSCLLrepMgPmAppRlF3Gs1h16kiE22",
+      "url": "https://kick.com/video/f43cf3dc-faa3-47a1-8578-85b2ef1c84b4"
+    },
+    {
       "id": "113022413",
       "type": "vod",
       "title": "🏆1 AN DE STREAM🏆A🏆MUTI🏆ANI🏆OMULETULE🏆HAIDETI🏆TOTSI🏆REACTII🏆JOACA🏆NE🏆JUKAM🏆AMPREUNA🏆",
       "date": "2026-06-14 19:49:02",
       "duration": "5113:36:40",
-      "views": 24,
+      "views": 26,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/Bjorscn8liUA/720.webp",
       "url": "https://kick.com/video/eafacbeb-df3e-49d5-b000-61b0a5904ab6"
@@ -22,7 +33,7 @@
       "title": "😳LIVE😳SIMBITA😳HAIDI😳ACUM😳BINE?😳BINE😳ATUNCI😳HAI😳PAI😳HAI😳REACTII😳JOACA😳NO😳GHETI😳HAI😳",
       "date": "2026-06-13 19:44:56",
       "duration": "4190:16:40",
-      "views": 88,
+      "views": 90,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/ZUKMMazZD0vk/720.webp",
       "url": "https://kick.com/video/8cde166a-e705-4d4d-8969-ee59a1ffccd7"
@@ -231,7 +242,7 @@
       "title": "👮MAMANGAJAT👮SUNT👮POLISIST👮HAIDETI👮AMENZI👮PE👮LIVE👮FACEM👮NORMA👮SAMBATA👮VICHEND👮MEOW👮",
       "date": "2026-05-23 18:13:43",
       "duration": "6582:13:20",
-      "views": 109,
+      "views": 111,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/34wqjBqNL4AX/720.webp",
       "url": "https://kick.com/video/6684e757-1297-4882-a2ab-8aa4ae9f0b0f"
@@ -398,7 +409,7 @@
       "title": "KICK Bounties 2",
       "date": "2026-05-23T21:01:45.372137Z",
       "duration": "0:29",
-      "views": 13,
+      "views": 14,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/71/clip_01KSBA8QA0Y5RJ6SABG5SH199W/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSBA8QA0Y5RJ6SABG5SH199W"
@@ -492,5 +503,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KR4XQC4D4YQB2X7E3M09S3XX"
     }
   ],
-  "fetched": "2026-06-15T12:36:29.764351+00:00"
+  "fetched": "2026-06-15T21:13:46.185649+00:00"
 }
