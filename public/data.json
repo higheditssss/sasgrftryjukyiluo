@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "113296486",
+      "type": "vod",
+      "title": "LIFE HAIDETI TOTI NE JUCAM IMPREUNA FACEM CRIZE DE NERGI",
+      "date": "2026-06-16 19:20:00",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/oHXOzQZwPVEx/720.webp?versionId=6b_F7w4cV4B.97b5CzbfQFZnNy5CTNcn",
+      "url": "https://kick.com/video/950c169f-2391-48cf-92b5-d9f3a0dcec4d"
+    },
+    {
       "id": "113168272",
       "type": "vod",
       "title": "MATINAL SCURT 2 OIRE",
       "date": "2026-06-15 21:07:09",
       "duration": "2909:10:00",
-      "views": 31,
+      "views": 33,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/TCjaBMAeieRl/720.webp",
       "url": "https://kick.com/video/f43cf3dc-faa3-47a1-8578-85b2ef1c84b4"
@@ -503,5 +514,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KR4XQC4D4YQB2X7E3M09S3XX"
     }
   ],
-  "fetched": "2026-06-16T17:15:41.296592+00:00"
+  "fetched": "2026-06-16T21:14:08.908574+00:00"
 }
