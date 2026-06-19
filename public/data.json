@@ -10,10 +10,10 @@
       "type": "vod",
       "title": "🫦GTA 7🫦LIVE🫦HAI🫦JOI🫦VACANTA🫦VARA🫦MEOW🫦HAM🫦E🫦CALDURA🫦OMULE🫦INALTARE🫦SPIRITUALISM🫦",
       "date": "2026-06-18 19:33:06",
-      "duration": "—",
-      "views": 0,
+      "duration": "5117:46:40",
+      "views": 502,
       "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/3LcvSDoJ38Cp/720.webp?versionId=14ukb2uN3MAgEYGjCbOckOb6kDMzodnw",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/3LcvSDoJ38Cp/720.webp",
       "url": "https://kick.com/video/d837ac5e-81e8-40ee-8ef9-91555afccb9b"
     },
     {
@@ -22,7 +22,7 @@
       "title": "👀COMOARA👀COMOROSITA👀LIVE👀MIERCURI👀HAI👀WOFWOF👀MESSIIIII👀GOOOOL👀HAIDEEE👀",
       "date": "2026-06-17 19:20:47",
       "duration": "5861:40:00",
-      "views": 284,
+      "views": 288,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/d5D0wDHFQeWW/720.webp",
       "url": "https://kick.com/video/f5a7778e-41d7-486d-9143-9961ba293c71"
@@ -33,7 +33,7 @@
       "title": "LIFE HAIDETI TOTI NE JUCAM IMPREUNA FACEM CRIZE DE NERGI",
       "date": "2026-06-16 19:20:00",
       "duration": "5363:36:40",
-      "views": 46,
+      "views": 51,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/oHXOzQZwPVEx/720.webp",
       "url": "https://kick.com/video/950c169f-2391-48cf-92b5-d9f3a0dcec4d"
@@ -55,7 +55,7 @@
       "title": "🏆1 AN DE STREAM🏆A🏆MUTI🏆ANI🏆OMULETULE🏆HAIDETI🏆TOTSI🏆REACTII🏆JOACA🏆NE🏆JUKAM🏆AMPREUNA🏆",
       "date": "2026-06-14 19:49:02",
       "duration": "5113:36:40",
-      "views": 45,
+      "views": 47,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/Bjorscn8liUA/720.webp",
       "url": "https://kick.com/video/eafacbeb-df3e-49d5-b000-61b0a5904ab6"
@@ -253,7 +253,7 @@
       "title": "🥲LIVE🥲LUNI🥲DEVREME🥲PT🥲MINE🥲HAIDETI🥲JOACA🥲REACTII🥲DIMINEASA🥲",
       "date": "2026-05-25 16:02:13",
       "duration": "7811:40:00",
-      "views": 96,
+      "views": 98,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/zjEPQg6yU5WF/720.webp",
       "url": "https://kick.com/video/af834ce8-b34f-40db-93f4-2a7ed26ac849"
@@ -305,12 +305,34 @@
   ],
   "clips": [
     {
+      "id": "clip_01KVEDVDTCJQFHTQCG1NWP30WA",
+      "type": "clip",
+      "title": "3",
+      "date": "2026-06-18T22:33:43.520198Z",
+      "duration": "0:30",
+      "views": 1,
+      "category": "Just Chatting",
+      "thumb": "https://clips.kick.com/clips/ba/clip_01KVEDVDTCJQFHTQCG1NWP30WA/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01KVEDVDTCJQFHTQCG1NWP30WA"
+    },
+    {
+      "id": "clip_01KVEBEM7RVWR8GQZDZ09JJRXE",
+      "type": "clip",
+      "title": "w",
+      "date": "2026-06-18T21:52:37.340103Z",
+      "duration": "0:18",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://clips.kick.com/clips/b2/clip_01KVEBEM7RVWR8GQZDZ09JJRXE/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01KVEBEM7RVWR8GQZDZ09JJRXE"
+    },
+    {
       "id": "clip_01KTPVT0K5SB7J5W2DSKXPGWDR",
       "type": "clip",
       "title": "....",
       "date": "2026-06-09T18:55:21.92579Z",
       "duration": "0:42",
-      "views": 17,
+      "views": 19,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/70/clip_01KTPVT0K5SB7J5W2DSKXPGWDR/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KTPVT0K5SB7J5W2DSKXPGWDR"
@@ -501,29 +523,7 @@
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/30/clip_01KSB83DBM9RZ0MC0CS1B5ETBH/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSB83DBM9RZ0MC0CS1B5ETBH"
-    },
-    {
-      "id": "clip_01KSB83AZ92SMV9Z613R9DMYAZ",
-      "type": "clip",
-      "title": "1",
-      "date": "2026-05-23T20:23:29.781777Z",
-      "duration": "0:30",
-      "views": 18,
-      "category": "Just Chatting",
-      "thumb": "https://clips.kick.com/clips/f9/clip_01KSB83AZ92SMV9Z613R9DMYAZ/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KSB83AZ92SMV9Z613R9DMYAZ"
-    },
-    {
-      "id": "clip_01KR4XQC4D4YQB2X7E3M09S3XX",
-      "type": "clip",
-      "title": "timi",
-      "date": "2026-05-08T23:11:01.66877Z",
-      "duration": "1:00",
-      "views": 11,
-      "category": "Just Chatting",
-      "thumb": "https://clips.kick.com/clips/e3/clip_01KR4XQC4D4YQB2X7E3M09S3XX/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KR4XQC4D4YQB2X7E3M09S3XX"
     }
   ],
-  "fetched": "2026-06-18T20:35:21.791900+00:00"
+  "fetched": "2026-06-19T05:14:05.089150+00:00"
 }
