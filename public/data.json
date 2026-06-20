@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "113751221",
+      "type": "vod",
+      "title": "👨🏻‍💻LIVE👨🏻‍💻VINERI👨🏻‍💻BIGGEST👨🏻‍💻ROBLOX👨🏻‍💻GAME👨🏻‍💻EVER👨🏻‍💻DA👨🏻‍💻NU👨🏻‍💻AZI👨🏻‍💻HAIDETI👨🏻‍💻DE TOATE👨🏻‍💻",
+      "date": "2026-06-19 21:54:40",
+      "duration": "2501:40:00",
+      "views": 491,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/INdifRUmCnXE/720.webp",
+      "url": "https://kick.com/video/96e6045c-a66e-4258-ba50-c0130d8e8e56"
+    },
+    {
       "id": "113584547",
       "type": "vod",
       "title": "🫦GTA 7🫦LIVE🫦HAI🫦JOI🫦VACANTA🫦VARA🫦MEOW🫦HAM🫦E🫦CALDURA🫦OMULE🫦INALTARE🫦SPIRITUALISM🫦",
       "date": "2026-06-18 19:33:06",
       "duration": "5117:46:40",
-      "views": 510,
+      "views": 512,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/3LcvSDoJ38Cp/720.webp",
       "url": "https://kick.com/video/d837ac5e-81e8-40ee-8ef9-91555afccb9b"
@@ -33,7 +44,7 @@
       "title": "LIFE HAIDETI TOTI NE JUCAM IMPREUNA FACEM CRIZE DE NERGI",
       "date": "2026-06-16 19:20:00",
       "duration": "5363:36:40",
-      "views": 55,
+      "views": 57,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/oHXOzQZwPVEx/720.webp",
       "url": "https://kick.com/video/950c169f-2391-48cf-92b5-d9f3a0dcec4d"
@@ -44,7 +55,7 @@
       "title": "MATINAL SCURT 2 OIRE",
       "date": "2026-06-15 21:07:09",
       "duration": "2909:10:00",
-      "views": 53,
+      "views": 55,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/TCjaBMAeieRl/720.webp",
       "url": "https://kick.com/video/f43cf3dc-faa3-47a1-8578-85b2ef1c84b4"
@@ -525,5 +536,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSB83X1HJZ626ZHEBJQQDF96"
     }
   ],
-  "fetched": "2026-06-19T19:58:37.616291+00:00"
+  "fetched": "2026-06-20T04:24:54.598820+00:00"
 }
