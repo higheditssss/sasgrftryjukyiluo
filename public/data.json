@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "114031517",
+      "type": "vod",
+      "title": "🏝️LIVE🏝️DUMINICA🏝️PLAJA🏝️LA🏝️PLAJA🏝️LAAA🏝️CE🏝️VRETI🏝️VOI🏝️JOACA🏝️REACTII🏝️DRAMA🏝️PACT🏝️DUMNEZEIESC🏝️",
+      "date": "2026-06-21 20:08:48",
+      "duration": "5864:26:40",
+      "views": 558,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/bCuJ6dpoIXyb/720.webp",
+      "url": "https://kick.com/video/d60bd7aa-14f0-4943-8c7f-ff08a2a5c3e9"
+    },
+    {
       "id": "113883660",
       "type": "vod",
       "title": "👽LIVE👽SAMBATA👽NE👽CONECTAM👽CU👽EXTRATERESTRII👽EI👽CHIAR👽EXISTA👽DOVADA👽AICI👽VENITI👽RAPID👽ACUM👽UNICAT👽IN👽LUME👽",
       "date": "2026-06-20 19:58:36",
       "duration": "5478:53:20",
-      "views": 1162,
+      "views": 1164,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/pKssx9oGG3vi/720.webp",
       "url": "https://kick.com/video/4faf9429-3623-4812-ad23-1d9c42627c85"
@@ -310,7 +321,7 @@
       "title": "567",
       "date": "2026-06-19T10:11:50.347717Z",
       "duration": "0:30",
-      "views": 5,
+      "views": 6,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/27/clip_01KVFNTWFQ4WQEF41NVWTM0PEQ/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KVFNTWFQ4WQEF41NVWTM0PEQ"
@@ -525,5 +536,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSB83X1HJZ626ZHEBJQQDF96"
     }
   ],
-  "fetched": "2026-06-21T19:55:38.085793+00:00"
+  "fetched": "2026-06-22T05:21:23.584583+00:00"
 }
