@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "114312427",
+      "type": "vod",
+      "title": "🥶LIVE🥶AM🥶INGHETAT🥶DE🥶CALD🥶JOACA🥶REACTII🥶SIUU🥶FAN🥶RONALDO🥶",
+      "date": "2026-06-23 20:02:42",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/IaZnO5G1i2SX/720.webp?versionId=4zT7rm9Yg9NKgaAfyWkj.brHds0vq9Bv",
+      "url": "https://kick.com/video/ee73bb81-9148-46ea-a05f-44811121c8d8"
+    },
+    {
       "id": "114166525",
       "type": "vod",
       "title": "🔥LUNI🔥INCEPE🔥SCOALA🔥EXAMEN🔥AM🔥PICAT🔥BACU🔥MERGEM🔥IN🔥SPANIA🔥IRL🔥DE🔥LA🔥MUNCA🔥HAIDETI🔥TOTI🔥",
       "date": "2026-06-22 19:50:13",
       "duration": "4065:00:00",
-      "views": 286,
+      "views": 288,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/HTzNKHyaSqFm/720.webp",
       "url": "https://kick.com/video/80eb80bc-6726-4746-9c75-b45990b1f130"
@@ -33,7 +44,7 @@
       "title": "👽LIVE👽SAMBATA👽NE👽CONECTAM👽CU👽EXTRATERESTRII👽EI👽CHIAR👽EXISTA👽DOVADA👽AICI👽VENITI👽RAPID👽ACUM👽UNICAT👽IN👽LUME👽",
       "date": "2026-06-20 19:58:36",
       "duration": "5478:53:20",
-      "views": 1168,
+      "views": 1170,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/pKssx9oGG3vi/720.webp",
       "url": "https://kick.com/video/4faf9429-3623-4812-ad23-1d9c42627c85"
@@ -55,7 +66,7 @@
       "title": "🫦GTA 7🫦LIVE🫦HAI🫦JOI🫦VACANTA🫦VARA🫦MEOW🫦HAM🫦E🫦CALDURA🫦OMULE🫦INALTARE🫦SPIRITUALISM🫦",
       "date": "2026-06-18 19:33:06",
       "duration": "5117:46:40",
-      "views": 536,
+      "views": 538,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/3LcvSDoJ38Cp/720.webp",
       "url": "https://kick.com/video/d837ac5e-81e8-40ee-8ef9-91555afccb9b"
@@ -132,7 +143,7 @@
       "title": "N AM TITLU, AVEM ADURI PE TOATE CATEGORIILE CRED, VEDEM PE LIVEU ASTA!",
       "date": "2026-06-10 20:33:02",
       "duration": "4111:40:00",
-      "views": 70,
+      "views": 72,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/Z2GKa1kZtA00/720.webp",
       "url": "https://kick.com/video/0c0afe93-fceb-4db6-b796-9bba9687b90d"
@@ -301,17 +312,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/zjEPQg6yU5WF/720.webp",
       "url": "https://kick.com/video/af834ce8-b34f-40db-93f4-2a7ed26ac849"
-    },
-    {
-      "id": "110059612",
-      "type": "vod",
-      "title": "📱IPAD📱KID📱LIVE📱TARZIU📱DUMINIKA📱LUNI📱MARTZI📱MERKURI📱REACTII📱JOACA📱QUIZ📱CEL📱MAI📱INTELIGENT📱PAMANTEAN📱",
-      "date": "2026-05-24 18:58:46",
-      "duration": "6075:50:00",
-      "views": 85,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/lADtj4EGH1P8/720.webp",
-      "url": "https://kick.com/video/b20115a3-1847-4d37-afc6-7bc91c1c4266"
     }
   ],
   "clips": [
@@ -332,7 +332,7 @@
       "title": "3",
       "date": "2026-06-18T22:33:43.520198Z",
       "duration": "0:30",
-      "views": 10,
+      "views": 11,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/ba/clip_01KVEDVDTCJQFHTQCG1NWP30WA/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KVEDVDTCJQFHTQCG1NWP30WA"
@@ -354,7 +354,7 @@
       "title": "....",
       "date": "2026-06-09T18:55:21.92579Z",
       "duration": "0:42",
-      "views": 37,
+      "views": 40,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/70/clip_01KTPVT0K5SB7J5W2DSKXPGWDR/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KTPVT0K5SB7J5W2DSKXPGWDR"
@@ -536,5 +536,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSB83X1HJZ626ZHEBJQQDF96"
     }
   ],
-  "fetched": "2026-06-23T15:18:44.289086+00:00"
+  "fetched": "2026-06-23T20:16:41.787583+00:00"
 }
