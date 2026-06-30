@@ -268,17 +268,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/lpSS5RNP0qAJ/720.webp",
       "url": "https://kick.com/video/b881f666-9ef1-4127-ac2e-2f4016b6b5e5"
-    },
-    {
-      "id": "111004905",
-      "type": "vod",
-      "title": "🐉IMBLANZITOR🐉DE🐉DRAGONI🐉EU🐉SUNT🐉LIVE🐉DUMINICA🐉ZIUA🐉COPILUUUULUUI🐉HAIDETI🐉SCUZE🐉BINE🐉HAI🐉",
-      "date": "2026-05-31 19:30:34",
-      "duration": "5265:16:40",
-      "views": 64,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/re9SZDc6H6QD/720.webp",
-      "url": "https://kick.com/video/748f1e12-3e65-4ca9-8193-4d13510b16bb"
     }
   ],
   "clips": [
@@ -288,7 +277,7 @@
       "title": "AAAAAAAAA LIVE",
       "date": "2026-06-26T22:44:37.770731Z",
       "duration": "1:30",
-      "views": 12,
+      "views": 13,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/3f/clip_01KW31M2S20DF7XF338GSP2K32/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KW31M2S20DF7XF338GSP2K32"
@@ -354,7 +343,7 @@
       "title": "bounty 4",
       "date": "2026-05-27T01:40:57.114873Z",
       "duration": "0:22",
-      "views": 18,
+      "views": 19,
       "category": "KICK Bounties",
       "thumb": "https://clips.kick.com/clips/91/clip_01KSKHE654W6714YHZS96J33Y8/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
@@ -503,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSB9HA6Z54TK2X1TB5TPCGQ5"
     }
   ],
-  "fetched": "2026-06-30T14:36:52.797033+00:00"
+  "fetched": "2026-06-30T20:09:16.983913+00:00"
 }
