@@ -10,10 +10,10 @@
       "type": "vod",
       "title": "✅BLING✅BLING✅MERHABA✅LIVE✅BUNA✅NEW✅STREAMER✅WELCOME✅",
       "date": "2026-07-05 18:55:50",
-      "duration": "—",
-      "views": 0,
+      "duration": "5280:50:00",
+      "views": 673,
       "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/zZPTSJVZRk1p/720.webp?versionId=xtcmNAx8SzaH.aNQ8xpAjGE7Jn0IN9iV",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/zZPTSJVZRk1p/720.webp",
       "url": "https://kick.com/video/d090e4cf-3e97-4aa3-9115-60135b8f27b3"
     },
     {
@@ -22,7 +22,7 @@
       "title": "🔥MAMTOPIT🔥DECALD🔥LIVEVINERI🔥LIVEORA🔥NOUA🔥FLACARA🔥INCINSA🔥PAIE🔥CALD🔥HAI🔥",
       "date": "2026-06-26 18:11:25",
       "duration": "5205:50:00",
-      "views": 1147,
+      "views": 1151,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/fK0x3ruFMWph/720.webp",
       "url": "https://kick.com/video/6234eddd-286a-459b-aac2-93d297947d86"
@@ -33,7 +33,7 @@
       "title": "🥶LIVE🥶AM🥶INGHETAT🥶DE🥶CALD🥶JOACA🥶REACTII🥶SIUU🥶FAN🥶RONALDO🥶",
       "date": "2026-06-23 20:02:42",
       "duration": "4375:16:40",
-      "views": 308,
+      "views": 310,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/IaZnO5G1i2SX/720.webp",
       "url": "https://kick.com/video/ee73bb81-9148-46ea-a05f-44811121c8d8"
@@ -44,7 +44,7 @@
       "title": "🔥LUNI🔥INCEPE🔥SCOALA🔥EXAMEN🔥AM🔥PICAT🔥BACU🔥MERGEM🔥IN🔥SPANIA🔥IRL🔥DE🔥LA🔥MUNCA🔥HAIDETI🔥TOTI🔥",
       "date": "2026-06-22 19:50:13",
       "duration": "4065:00:00",
-      "views": 332,
+      "views": 336,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/HTzNKHyaSqFm/720.webp",
       "url": "https://kick.com/video/80eb80bc-6726-4746-9c75-b45990b1f130"
@@ -213,17 +213,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/3vmkeBxzIbM5/720.webp",
       "url": "https://kick.com/video/acc07aab-1a76-49b9-8505-b215fcebfb62"
-    },
-    {
-      "id": "111701187",
-      "type": "vod",
-      "title": "🦓LIVE🦓ZERBRA🦓ZOO🦓INCHIDETI ZOO🦓VINERI🦓VICHEND🦓JOCTII🦓REACURI🦓HAIDETI🦓BINE🦓OMULETI🦓DRAMA🦓",
-      "date": "2026-06-05 19:37:50",
-      "duration": "5568:20:00",
-      "views": 48,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/9df2PVoyutli/720.webp",
-      "url": "https://kick.com/video/0305f580-7781-4056-907a-7d30b464b4b5"
     }
   ],
   "clips": [
@@ -448,5 +437,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSB9HA6Z54TK2X1TB5TPCGQ5"
     }
   ],
-  "fetched": "2026-07-05T19:36:53.406154+00:00"
+  "fetched": "2026-07-06T04:20:57.640292+00:00"
 }
