@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "116544666",
+      "type": "vod",
+      "title": "😭VENITI😭DE😭LUATI😭INTUNERIC😭LIFE😭LIVE😭CONCERT😭INVITAT😭SPECIAL😭HAI😭BINE😭",
+      "date": "2026-07-08 19:12:29",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/exD0nggKTQOp/720.webp?versionId=9DuwuFCJQaE0VMD7IzYgkMsbR9D9hM49",
+      "url": "https://kick.com/video/55778525-0e7f-4f04-baf4-9f00630bacd7"
+    },
+    {
       "id": "116404425",
       "type": "vod",
       "title": "🥶GER🥶IARNA🥶INGHET🥶E🥶FRIG🥶FOC🥶CALDURA🥶E🥶CANICULA🥶HAIDETI🥶MEEEEOOOOOWW🥶",
       "date": "2026-07-07 19:33:36",
       "duration": "5799:43:20",
-      "views": 279,
+      "views": 281,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/go9iPZHCKtK5/720.webp",
       "url": "https://kick.com/video/9469ff43-ec43-4b59-8b83-1a1bb6e9cb9f"
@@ -191,17 +202,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/In3PVEET0uVC/720.webp",
       "url": "https://kick.com/video/762ad938-14bb-4766-8f7d-a921be6a32f3"
-    },
-    {
-      "id": "112129831",
-      "type": "vod",
-      "title": "❤️LUNI❤️SPREAD❤️LOVE❤️BE❤️KIND❤️HAIDETI❤️JOCURI❤️REACTII❤️EVENIMENT❤️SPECIAL❤️VARA❤️IUBIRE❤️",
-      "date": "2026-06-08 18:24:10",
-      "duration": "5595:16:40",
-      "views": 66,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/QDYBr9cTdGyi/720.webp",
-      "url": "https://kick.com/video/c2f3bf56-35c8-4271-8484-7bbe50054509"
     }
   ],
   "clips": [
@@ -426,5 +426,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSB9HA6Z54TK2X1TB5TPCGQ5"
     }
   ],
-  "fetched": "2026-07-08T14:33:28.169754+00:00"
+  "fetched": "2026-07-08T19:46:35.054542+00:00"
 }
