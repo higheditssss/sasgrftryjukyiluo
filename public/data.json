@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "117009910",
+      "type": "vod",
+      "title": "🐈MEOW🐈LIVE🐈NEW🐈STREAMER🐈HAIDATI🐈JOACA🐈REASII🐈HAALAND🐈GOL🐈NORVEGIA🐈CUPA🐈MONDIALA🐈",
+      "date": "2026-07-11 20:57:26",
+      "duration": "3786:56:40",
+      "views": 336,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/7r4uvLeMh0xW/720.webp",
+      "url": "https://kick.com/video/de446033-f8b4-4eab-8389-faaa7cda2e0c"
+    },
+    {
       "id": "116698531",
       "type": "vod",
       "title": "✅BAIATU✅JUCAUS✅LIVE✅HAI✅NU✅STIU✅CE✅ZI✅E✅AZI✅SZIA✅CHESTURI✅GRATIS✅",
       "date": "2026-07-09 19:41:46",
       "duration": "5135:16:40",
-      "views": 559,
+      "views": 565,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/Mlkgu4SNPqab/720.webp",
       "url": "https://kick.com/video/4d72d826-0cd0-4f73-ac78-f3847e034bc1"
@@ -22,7 +33,7 @@
       "title": "😭VENITI😭DE😭LUATI😭INTUNERIC😭LIFE😭LIVE😭CONCERT😭INVITAT😭SPECIAL😭HAI😭BINE😭",
       "date": "2026-07-08 19:12:29",
       "duration": "6304:43:20",
-      "views": 1456,
+      "views": 1460,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/exD0nggKTQOp/720.webp",
       "url": "https://kick.com/video/55778525-0e7f-4f04-baf4-9f00630bacd7"
@@ -44,7 +55,7 @@
       "title": "✅BLING✅BLING✅MERHABA✅LIVE✅BUNA✅NEW✅STREAMER✅WELCOME✅",
       "date": "2026-07-05 18:55:50",
       "duration": "5280:50:00",
-      "views": 712,
+      "views": 714,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/zZPTSJVZRk1p/720.webp",
       "url": "https://kick.com/video/d090e4cf-3e97-4aa3-9115-60135b8f27b3"
@@ -88,7 +99,7 @@
       "title": "🏝️LIVE🏝️DUMINICA🏝️PLAJA🏝️LA🏝️PLAJA🏝️LAAA🏝️CE🏝️VRETI🏝️VOI🏝️JOACA🏝️REACTII🏝️DRAMA🏝️PACT🏝️DUMNEZEIESC🏝️",
       "date": "2026-06-21 20:08:48",
       "duration": "5864:26:40",
-      "views": 613,
+      "views": 615,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/bCuJ6dpoIXyb/720.webp",
       "url": "https://kick.com/video/d60bd7aa-14f0-4943-8c7f-ff08a2a5c3e9"
@@ -99,7 +110,7 @@
       "title": "👽LIVE👽SAMBATA👽NE👽CONECTAM👽CU👽EXTRATERESTRII👽EI👽CHIAR👽EXISTA👽DOVADA👽AICI👽VENITI👽RAPID👽ACUM👽UNICAT👽IN👽LUME👽",
       "date": "2026-06-20 19:58:36",
       "duration": "5478:53:20",
-      "views": 1192,
+      "views": 1194,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/pKssx9oGG3vi/720.webp",
       "url": "https://kick.com/video/4faf9429-3623-4812-ad23-1d9c42627c85"
@@ -354,7 +365,7 @@
       "title": "KICK Bounties 2",
       "date": "2026-05-23T21:01:45.372137Z",
       "duration": "0:29",
-      "views": 17,
+      "views": 18,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/71/clip_01KSBA8QA0Y5RJ6SABG5SH199W/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSBA8QA0Y5RJ6SABG5SH199W"
@@ -404,5 +415,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSB9HA6Z54TK2X1TB5TPCGQ5"
     }
   ],
-  "fetched": "2026-07-11T19:16:29.158040+00:00"
+  "fetched": "2026-07-12T03:42:30.596817+00:00"
 }
