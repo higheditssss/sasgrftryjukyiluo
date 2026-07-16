@@ -10,10 +10,10 @@
       "type": "vod",
       "title": "☀️STFU☀️LIVE☀️ANGLIA☀️ARGENTINA☀️RIP☀️HAI☀️SOARELE☀️PECER☀️",
       "date": "2026-07-15 18:02:35",
-      "duration": "—",
-      "views": 3,
+      "duration": "5186:06:40",
+      "views": 305,
       "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/E7a1ZGzhXMCH/720.webp?versionId=_7bCy3nWP8Ot2zXoQUjAsbb9ooAFMUx.",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/E7a1ZGzhXMCH/720.webp",
       "url": "https://kick.com/video/19d6b6e9-3a23-4eb5-84ac-15b1c1cf60b5"
     },
     {
@@ -22,7 +22,7 @@
       "title": "🫩CE🫩DRACULUI🫩MA🫩FRATE🫩ASA🫩CEVA🫩NU🫩ESTE🫩ADEVARAT🫩SAU🫩POSIBILIMENTE🫩DAR🫩HAIDE🫩SA🫩INCERKAM🫩ZIK🫩HAI🫩",
       "date": "2026-07-13 20:07:29",
       "duration": "3805:33:20",
-      "views": 348,
+      "views": 350,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/iTj5GYw5mgue/720.webp",
       "url": "https://kick.com/video/d9aad40e-93e3-4905-b487-7ad6f6e3e9f9"
@@ -44,7 +44,7 @@
       "title": "🐈MEOW🐈LIVE🐈NEW🐈STREAMER🐈HAIDATI🐈JOACA🐈REASII🐈HAALAND🐈GOL🐈NORVEGIA🐈CUPA🐈MONDIALA🐈",
       "date": "2026-07-11 20:57:26",
       "duration": "3786:56:40",
-      "views": 393,
+      "views": 395,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/7r4uvLeMh0xW/720.webp",
       "url": "https://kick.com/video/de446033-f8b4-4eab-8389-faaa7cda2e0c"
@@ -66,7 +66,7 @@
       "title": "😭VENITI😭DE😭LUATI😭INTUNERIC😭LIFE😭LIVE😭CONCERT😭INVITAT😭SPECIAL😭HAI😭BINE😭",
       "date": "2026-07-08 19:12:29",
       "duration": "6304:43:20",
-      "views": 1485,
+      "views": 1487,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/exD0nggKTQOp/720.webp",
       "url": "https://kick.com/video/55778525-0e7f-4f04-baf4-9f00630bacd7"
@@ -77,7 +77,7 @@
       "title": "🥶GER🥶IARNA🥶INGHET🥶E🥶FRIG🥶FOC🥶CALDURA🥶E🥶CANICULA🥶HAIDETI🥶MEEEEOOOOOWW🥶",
       "date": "2026-07-07 19:33:36",
       "duration": "5799:43:20",
-      "views": 306,
+      "views": 308,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/go9iPZHCKtK5/720.webp",
       "url": "https://kick.com/video/9469ff43-ec43-4b59-8b83-1a1bb6e9cb9f"
@@ -165,7 +165,7 @@
       "title": "🫦GTA 7🫦LIVE🫦HAI🫦JOI🫦VACANTA🫦VARA🫦MEOW🫦HAM🫦E🫦CALDURA🫦OMULE🫦INALTARE🫦SPIRITUALISM🫦",
       "date": "2026-06-18 19:33:06",
       "duration": "5117:46:40",
-      "views": 567,
+      "views": 569,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/3LcvSDoJ38Cp/720.webp",
       "url": "https://kick.com/video/d837ac5e-81e8-40ee-8ef9-91555afccb9b"
@@ -191,17 +191,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/oHXOzQZwPVEx/720.webp",
       "url": "https://kick.com/video/950c169f-2391-48cf-92b5-d9f3a0dcec4d"
-    },
-    {
-      "id": "113168272",
-      "type": "vod",
-      "title": "MATINAL SCURT 2 OIRE",
-      "date": "2026-06-15 21:07:09",
-      "duration": "2909:10:00",
-      "views": 69,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/TCjaBMAeieRl/720.webp",
-      "url": "https://kick.com/video/f43cf3dc-faa3-47a1-8578-85b2ef1c84b4"
     }
   ],
   "clips": [
@@ -426,5 +415,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSB9JCGGVK1N9T8KABHPTGS7"
     }
   ],
-  "fetched": "2026-07-15T19:23:53.718886+00:00"
+  "fetched": "2026-07-16T03:26:31.899824+00:00"
 }
