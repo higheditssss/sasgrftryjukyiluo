@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "117878582",
+      "type": "vod",
+      "title": "🥶E🥶FRIG🥶AZI🥶SUNTEM🥶JUCARETI🥶HAIDE🥶LAIF🥶PE🥶LIVE🥶TRAIM🥶SAU🥶MURIM🥶",
+      "date": "2026-07-17 18:43:32",
+      "duration": "—",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/gbf3NABCdPbH/720.webp?versionId=F4zOhcWhJIA7cC4HF5r3wCX_EQU8bJRi",
+      "url": "https://kick.com/video/de065eef-e874-4729-b7de-ab6cd583671f"
+    },
+    {
       "id": "117736214",
       "type": "vod",
       "title": "✨STELUTA✨KAZATOARE✨DIN✨CER✨MINUNE✨MARE✨HAI✨LA✨MINUNE✨MINUNE✨MINUNE✨MINUNE✨",
       "date": "2026-07-16 19:55:45",
       "duration": "4449:26:40",
-      "views": 287,
+      "views": 290,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/hXkdx2fy1tlH/720.webp",
       "url": "https://kick.com/video/82de0b2a-b5ba-4326-89c0-7d087960bf3d"
@@ -22,7 +33,7 @@
       "title": "☀️STFU☀️LIVE☀️ANGLIA☀️ARGENTINA☀️RIP☀️HAI☀️SOARELE☀️PECER☀️",
       "date": "2026-07-15 18:02:35",
       "duration": "5186:06:40",
-      "views": 320,
+      "views": 322,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/E7a1ZGzhXMCH/720.webp",
       "url": "https://kick.com/video/19d6b6e9-3a23-4eb5-84ac-15b1c1cf60b5"
@@ -33,7 +44,7 @@
       "title": "🫩CE🫩DRACULUI🫩MA🫩FRATE🫩ASA🫩CEVA🫩NU🫩ESTE🫩ADEVARAT🫩SAU🫩POSIBILIMENTE🫩DAR🫩HAIDE🫩SA🫩INCERKAM🫩ZIK🫩HAI🫩",
       "date": "2026-07-13 20:07:29",
       "duration": "3805:33:20",
-      "views": 358,
+      "views": 360,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/iTj5GYw5mgue/720.webp",
       "url": "https://kick.com/video/d9aad40e-93e3-4905-b487-7ad6f6e3e9f9"
@@ -180,17 +191,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/3LcvSDoJ38Cp/720.webp",
       "url": "https://kick.com/video/d837ac5e-81e8-40ee-8ef9-91555afccb9b"
-    },
-    {
-      "id": "113439382",
-      "type": "vod",
-      "title": "👀COMOARA👀COMOROSITA👀LIVE👀MIERCURI👀HAI👀WOFWOF👀MESSIIIII👀GOOOOL👀HAIDEEE👀",
-      "date": "2026-06-17 19:20:47",
-      "duration": "5861:40:00",
-      "views": 320,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/d5D0wDHFQeWW/720.webp",
-      "url": "https://kick.com/video/f5a7778e-41d7-486d-9143-9961ba293c71"
     }
   ],
   "clips": [
@@ -415,5 +415,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSB9JCGGVK1N9T8KABHPTGS7"
     }
   ],
-  "fetched": "2026-07-17T13:56:05.896159+00:00"
+  "fetched": "2026-07-17T19:21:32.614973+00:00"
 }
