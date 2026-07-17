@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "117736214",
+      "type": "vod",
+      "title": "✨STELUTA✨KAZATOARE✨DIN✨CER✨MINUNE✨MARE✨HAI✨LA✨MINUNE✨MINUNE✨MINUNE✨MINUNE✨",
+      "date": "2026-07-16 19:55:45",
+      "duration": "4449:26:40",
+      "views": 283,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/hXkdx2fy1tlH/720.webp",
+      "url": "https://kick.com/video/82de0b2a-b5ba-4326-89c0-7d087960bf3d"
+    },
+    {
       "id": "117578697",
       "type": "vod",
       "title": "☀️STFU☀️LIVE☀️ANGLIA☀️ARGENTINA☀️RIP☀️HAI☀️SOARELE☀️PECER☀️",
       "date": "2026-07-15 18:02:35",
       "duration": "5186:06:40",
-      "views": 317,
+      "views": 320,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/E7a1ZGzhXMCH/720.webp",
       "url": "https://kick.com/video/19d6b6e9-3a23-4eb5-84ac-15b1c1cf60b5"
@@ -22,7 +33,7 @@
       "title": "🫩CE🫩DRACULUI🫩MA🫩FRATE🫩ASA🫩CEVA🫩NU🫩ESTE🫩ADEVARAT🫩SAU🫩POSIBILIMENTE🫩DAR🫩HAIDE🫩SA🫩INCERKAM🫩ZIK🫩HAI🫩",
       "date": "2026-07-13 20:07:29",
       "duration": "3805:33:20",
-      "views": 356,
+      "views": 358,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/iTj5GYw5mgue/720.webp",
       "url": "https://kick.com/video/d9aad40e-93e3-4905-b487-7ad6f6e3e9f9"
@@ -33,7 +44,7 @@
       "title": "🎵NE UITAM LA DON SI RESTU DE LA BP🎵",
       "date": "2026-07-12 21:55:53",
       "duration": "3130:33:20",
-      "views": 685,
+      "views": 687,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/RJuZa9rj2ncm/720.webp",
       "url": "https://kick.com/video/411bc1ff-b0d1-4ac2-b4cf-8b5ad7679ab0"
@@ -404,5 +415,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSB9JCGGVK1N9T8KABHPTGS7"
     }
   ],
-  "fetched": "2026-07-16T19:23:39.304950+00:00"
+  "fetched": "2026-07-17T03:28:57.247921+00:00"
 }
