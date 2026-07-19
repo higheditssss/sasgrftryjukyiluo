@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "118047227",
+      "type": "vod",
+      "title": "🩷SZIA🩷SERVUSTOC🩷HAIDASI🩷FINALA🩷MICA🩷FRANTA🩷ANGLIA🩷CASTIGA🩷MBAPPE🩷HAI🩷",
+      "date": "2026-07-18 20:17:12",
+      "duration": "4741:40:00",
+      "views": 558,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/UwKa8nfDzXSj/720.webp",
+      "url": "https://kick.com/video/86611a86-2a6b-41fa-b148-47542baa6fbc"
+    },
+    {
       "id": "117878582",
       "type": "vod",
       "title": "🥶E🥶FRIG🥶AZI🥶SUNTEM🥶JUCARETI🥶HAIDE🥶LAIF🥶PE🥶LIVE🥶TRAIM🥶SAU🥶MURIM🥶",
       "date": "2026-07-17 18:43:32",
       "duration": "6051:40:00",
-      "views": 533,
+      "views": 537,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/gbf3NABCdPbH/720.webp",
       "url": "https://kick.com/video/de065eef-e874-4729-b7de-ab6cd583671f"
@@ -22,7 +33,7 @@
       "title": "✨STELUTA✨KAZATOARE✨DIN✨CER✨MINUNE✨MARE✨HAI✨LA✨MINUNE✨MINUNE✨MINUNE✨MINUNE✨",
       "date": "2026-07-16 19:55:45",
       "duration": "4449:26:40",
-      "views": 298,
+      "views": 300,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/hXkdx2fy1tlH/720.webp",
       "url": "https://kick.com/video/82de0b2a-b5ba-4326-89c0-7d087960bf3d"
@@ -180,20 +191,20 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/INdifRUmCnXE/720.webp",
       "url": "https://kick.com/video/96e6045c-a66e-4258-ba50-c0130d8e8e56"
-    },
-    {
-      "id": "113584547",
-      "type": "vod",
-      "title": "🫦GTA 7🫦LIVE🫦HAI🫦JOI🫦VACANTA🫦VARA🫦MEOW🫦HAM🫦E🫦CALDURA🫦OMULE🫦INALTARE🫦SPIRITUALISM🫦",
-      "date": "2026-06-18 19:33:06",
-      "duration": "5117:46:40",
-      "views": 571,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/3LcvSDoJ38Cp/720.webp",
-      "url": "https://kick.com/video/d837ac5e-81e8-40ee-8ef9-91555afccb9b"
     }
   ],
   "clips": [
+    {
+      "id": "clip_01KXVM64032K6S0A6KRB0RATFB",
+      "type": "clip",
+      "title": "hahahaha",
+      "date": "2026-07-18T22:05:20.756116Z",
+      "duration": "0:30",
+      "views": 1,
+      "category": "Just Chatting",
+      "thumb": "https://clips.kick.com/clips/68/clip_01KXVM64032K6S0A6KRB0RATFB/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01KXVM64032K6S0A6KRB0RATFB"
+    },
     {
       "id": "clip_01KXC7NTNC0SRKHV8NJCM2X587",
       "type": "clip",
@@ -402,18 +413,7 @@
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/24/clip_01KSB9P13GFW4KHV6JCFTHH7NK/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSB9P13GFW4KHV6JCFTHH7NK"
-    },
-    {
-      "id": "clip_01KSB9JCGGVK1N9T8KABHPTGS7",
-      "type": "clip",
-      "title": "messi",
-      "date": "2026-05-23T20:49:43.571763Z",
-      "duration": "0:15",
-      "views": 6,
-      "category": "Just Chatting",
-      "thumb": "https://clips.kick.com/clips/11/clip_01KSB9JCGGVK1N9T8KABHPTGS7/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KSB9JCGGVK1N9T8KABHPTGS7"
     }
   ],
-  "fetched": "2026-07-18T19:15:31.290466+00:00"
+  "fetched": "2026-07-19T03:38:40.677169+00:00"
 }
