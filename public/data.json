@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "119420559",
+      "type": "vod",
+      "title": "👀LIVE👀REACTII👀IAR👀EMISIUNI👀JOACA👀HORROR POATE👀HAI👀VA👀PUPI👀",
+      "date": "2026-07-27 19:50:42",
+      "duration": "4044:26:40",
+      "views": 1040,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/GTBXpy7QHbOo/720.webp",
+      "url": "https://kick.com/video/bcb47e2f-b49a-44db-ac14-8bbbb750558a"
+    },
+    {
       "id": "119272165",
       "type": "vod",
       "title": "✅MEEEEOOW✅HAI✅MEEEOWWW✅IAR✅MEEOOOWW✅LIVE✅MEEEOOOW✅SUPREM✅",
@@ -244,7 +255,7 @@
       "title": "bounty 5",
       "date": "2026-05-27T02:33:57.615009Z",
       "duration": "0:27",
-      "views": 21,
+      "views": 22,
       "category": "KICK Bounties",
       "thumb": "https://clips.kick.com/clips/72/clip_01KSKMF29ABFM8NJE1NMSZEXJ7/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSKMF29ABFM8NJE1NMSZEXJ7"
@@ -266,7 +277,7 @@
       "title": "bounty",
       "date": "2026-05-27T01:00:32.327853Z",
       "duration": "0:28",
-      "views": 22,
+      "views": 23,
       "category": "KICK Bounties",
       "thumb": "https://clips.kick.com/clips/da/clip_01KSKF3E20ZB7Z9628M2KP8FS8/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSKF3E20ZB7Z9628M2KP8FS8"
@@ -354,7 +365,7 @@
       "title": "KICK Bounties 2",
       "date": "2026-05-23T21:01:45.372137Z",
       "duration": "0:29",
-      "views": 20,
+      "views": 21,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/71/clip_01KSBA8QA0Y5RJ6SABG5SH199W/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSBA8QA0Y5RJ6SABG5SH199W"
@@ -382,5 +393,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSB9P13GFW4KHV6JCFTHH7NK"
     }
   ],
-  "fetched": "2026-07-27T19:46:14.645817+00:00"
+  "fetched": "2026-07-28T03:24:42.358485+00:00"
 }
