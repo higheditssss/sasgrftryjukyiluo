@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "119588254",
+      "type": "vod",
+      "title": "✨CE✨NE✨OFERA✨INTERNETUL✨ASTAZI✨ASTA✨ESTE✨INTREBAREA✨HAIDATS✨REACTII✨POOOOAATE✨JOACA✨",
+      "date": "2026-07-28 20:52:09",
+      "duration": "4190:16:40",
+      "views": 406,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/OKViFL4pRjx9/720.webp",
+      "url": "https://kick.com/video/8e700a13-d384-4a48-8ebf-2d081749acba"
+    },
+    {
       "id": "119420559",
       "type": "vod",
       "title": "👀LIVE👀REACTII👀IAR👀EMISIUNI👀JOACA👀HORROR POATE👀HAI👀VA👀PUPI👀",
@@ -393,5 +404,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSB9P13GFW4KHV6JCFTHH7NK"
     }
   ],
-  "fetched": "2026-07-28T19:44:12.890894+00:00"
+  "fetched": "2026-07-29T03:26:22.926260+00:00"
 }
