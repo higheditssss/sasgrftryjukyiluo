@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "119739472",
+      "type": "vod",
+      "title": "🦔MERCURI🦔LIVEURI🦔LECTIURI🦔DE🦔VIATURI🦔UNGURI🦔ROMANI🦔HAIDETI🦔INAINTATI🦔DRAMA🦔SCANDAL🦔NE🦔CERTAM🦔PUBLIC🦔",
+      "date": "2026-07-29 19:38:22",
+      "duration": "5723:20:00",
+      "views": 488,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/5i5CbOuhhMUr/720.webp",
+      "url": "https://kick.com/video/3ffef9fc-b198-467b-a0ec-8cdbb194fdcd"
+    },
+    {
       "id": "119588254",
       "type": "vod",
       "title": "✨CE✨NE✨OFERA✨INTERNETUL✨ASTAZI✨ASTA✨ESTE✨INTREBAREA✨HAIDATS✨REACTII✨POOOOAATE✨JOACA✨",
@@ -343,7 +354,7 @@
       "title": "kick bounty",
       "date": "2026-05-25T21:18:06.750816Z",
       "duration": "0:18",
-      "views": 12,
+      "views": 13,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/b6/clip_01KSGG0192KCY8KHXCP5S2MM8Q/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSGG0192KCY8KHXCP5S2MM8Q"
@@ -404,5 +415,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSB9P13GFW4KHV6JCFTHH7NK"
     }
   ],
-  "fetched": "2026-07-29T19:35:22.571420+00:00"
+  "fetched": "2026-07-30T03:14:12.226948+00:00"
 }
