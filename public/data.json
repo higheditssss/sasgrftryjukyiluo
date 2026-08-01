@@ -10,10 +10,10 @@
       "type": "vod",
       "title": "👉🏾LIVE👉🏾VINERI👉🏾WIKEND👉🏾GATA👉🏾SCOALA👉🏾VACANTA👉🏾MUNCA👉🏾1👉🏾IULIE👉🏾MUNCITORESC👉🏾HAI👉🏾",
       "date": "2026-07-31 19:15:32",
-      "duration": "—",
-      "views": 3,
+      "duration": "6054:26:40",
+      "views": 879,
       "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/oSmemvYBpvEz/720.webp?versionId=wniDkIgp19fS2b_xW.yfoEJhxWoFPI3c",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/oSmemvYBpvEz/720.webp",
       "url": "https://kick.com/video/75c37f12-f50f-44de-90f1-4a5262f19094"
     },
     {
@@ -216,6 +216,17 @@
     }
   ],
   "clips": [
+    {
+      "id": "clip_01KYXCQQ2MXXPHY8VSEFJQHMZX",
+      "type": "clip",
+      "title": "....",
+      "date": "2026-08-01T00:49:16.290863Z",
+      "duration": "0:30",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://clips.kick.com/clips/b5/clip_01KYXCQQ2MXXPHY8VSEFJQHMZX/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01KYXCQQ2MXXPHY8VSEFJQHMZX"
+    },
     {
       "id": "clip_01KXVM64032K6S0A6KRB0RATFB",
       "type": "clip",
@@ -424,18 +435,7 @@
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/50/clip_01KSB9VAWQS5YWFV6CT763BN44/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSB9VAWQS5YWFV6CT763BN44"
-    },
-    {
-      "id": "clip_01KSB9P13GFW4KHV6JCFTHH7NK",
-      "type": "clip",
-      "title": "neon clutch",
-      "date": "2026-05-23T20:51:34.905776Z",
-      "duration": "0:15",
-      "views": 10,
-      "category": "Just Chatting",
-      "thumb": "https://clips.kick.com/clips/24/clip_01KSB9P13GFW4KHV6JCFTHH7NK/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KSB9P13GFW4KHV6JCFTHH7NK"
     }
   ],
-  "fetched": "2026-07-31T19:45:18.047582+00:00"
+  "fetched": "2026-08-01T03:40:36.445718+00:00"
 }
