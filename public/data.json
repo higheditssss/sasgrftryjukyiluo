@@ -217,6 +217,17 @@
   ],
   "clips": [
     {
+      "id": "clip_01KYYP2Z1D65GE5A1WXGKKRQW3",
+      "type": "clip",
+      "title": "afara",
+      "date": "2026-08-01T12:52:45.885326Z",
+      "duration": "0:12",
+      "views": 2,
+      "category": "Just Chatting",
+      "thumb": "https://clips.kick.com/clips/74/clip_01KYYP2Z1D65GE5A1WXGKKRQW3/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01KYYP2Z1D65GE5A1WXGKKRQW3"
+    },
+    {
       "id": "clip_01KYXCQQ2MXXPHY8VSEFJQHMZX",
       "type": "clip",
       "title": "....",
@@ -424,18 +435,7 @@
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/71/clip_01KSBA8QA0Y5RJ6SABG5SH199W/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSBA8QA0Y5RJ6SABG5SH199W"
-    },
-    {
-      "id": "clip_01KSB9VAWQS5YWFV6CT763BN44",
-      "type": "clip",
-      "title": "KICK Bounties messi",
-      "date": "2026-05-23T20:55:04.464042Z",
-      "duration": "0:21",
-      "views": 28,
-      "category": "Just Chatting",
-      "thumb": "https://clips.kick.com/clips/50/clip_01KSB9VAWQS5YWFV6CT763BN44/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KSB9VAWQS5YWFV6CT763BN44"
     }
   ],
-  "fetched": "2026-08-01T08:31:29.591407+00:00"
+  "fetched": "2026-08-01T13:44:57.894586+00:00"
 }
