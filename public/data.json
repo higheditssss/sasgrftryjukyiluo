@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "120217523",
+      "type": "vod",
+      "title": "live test",
+      "date": "2026-08-01 20:34:42",
+      "duration": "4535:00:00",
+      "views": 291,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/UfqGb37fgZT3/720.webp",
+      "url": "https://kick.com/video/ecf5ce0d-98ee-4088-bfcc-6f33c608c978"
+    },
+    {
       "id": "120041779",
       "type": "vod",
       "title": "👉🏾LIVE👉🏾VINERI👉🏾WIKEND👉🏾GATA👉🏾SCOALA👉🏾VACANTA👉🏾MUNCA👉🏾1👉🏾IULIE👉🏾MUNCITORESC👉🏾HAI👉🏾",
@@ -437,5 +448,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSBA8QA0Y5RJ6SABG5SH199W"
     }
   ],
-  "fetched": "2026-08-01T19:20:42.012818+00:00"
+  "fetched": "2026-08-02T03:40:48.645557+00:00"
 }
