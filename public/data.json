@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "120365504",
+      "type": "vod",
+      "title": "🫨AIV🫨LIVE🫨DUMINK🫨HORORIK🫨LECTIIK🫨DE🫨VIATIK🫨HAIDIK🫨TOTIK🫨BUCLUKIIK🫨",
+      "date": "2026-08-02 19:06:33",
+      "duration": "—",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/KbhZYvZS9IO5/720.webp?versionId=2DMOf9zUp6iko8BSBzi2KfuKpQRX.RBh",
+      "url": "https://kick.com/video/7f0c1333-0e7e-4a8d-9d0f-339945ad12ec"
+    },
+    {
       "id": "120217523",
       "type": "vod",
       "title": "live test",
@@ -233,7 +244,7 @@
       "title": "cocosel",
       "date": "2026-08-02T12:12:49.99254Z",
       "duration": "0:20",
-      "views": 0,
+      "views": 1,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/ff/clip_01KZ166MJG9E7PGER1TSDENV10/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KZ166MJG9E7PGER1TSDENV10"
@@ -448,5 +459,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSDQKDCN200AX6BFEH51T8E6"
     }
   ],
-  "fetched": "2026-08-02T13:44:53.449931+00:00"
+  "fetched": "2026-08-02T19:21:42.201436+00:00"
 }
