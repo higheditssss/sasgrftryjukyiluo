@@ -228,6 +228,17 @@
   ],
   "clips": [
     {
+      "id": "clip_01KZ166MJG9E7PGER1TSDENV10",
+      "type": "clip",
+      "title": "cocosel",
+      "date": "2026-08-02T12:12:49.99254Z",
+      "duration": "0:20",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://clips.kick.com/clips/ff/clip_01KZ166MJG9E7PGER1TSDENV10/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01KZ166MJG9E7PGER1TSDENV10"
+    },
+    {
       "id": "clip_01KYYP2Z1D65GE5A1WXGKKRQW3",
       "type": "clip",
       "title": "afara",
@@ -435,18 +446,7 @@
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/f9/clip_01KSDQKDCN200AX6BFEH51T8E6/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSDQKDCN200AX6BFEH51T8E6"
-    },
-    {
-      "id": "clip_01KSBA8QA0Y5RJ6SABG5SH199W",
-      "type": "clip",
-      "title": "KICK Bounties 2",
-      "date": "2026-05-23T21:01:45.372137Z",
-      "duration": "0:29",
-      "views": 21,
-      "category": "Just Chatting",
-      "thumb": "https://clips.kick.com/clips/71/clip_01KSBA8QA0Y5RJ6SABG5SH199W/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KSBA8QA0Y5RJ6SABG5SH199W"
     }
   ],
-  "fetched": "2026-08-02T08:33:37.325388+00:00"
+  "fetched": "2026-08-02T13:44:53.449931+00:00"
 }
