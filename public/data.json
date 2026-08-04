@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "120532720",
+      "type": "vod",
+      "title": "LIVE SCURT PULA",
+      "date": "2026-08-03 21:45:27",
+      "duration": "2274:26:40",
+      "views": 560,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/Bs364fy5AAtD/720.webp",
+      "url": "https://kick.com/video/a1127cf1-ded5-43a4-9c29-e311ba54fd3d"
+    },
+    {
       "id": "120365504",
       "type": "vod",
       "title": "🫨AIV🫨LIVE🫨DUMINK🫨HORORIK🫨LECTIIK🫨DE🫨VIATIK🫨HAIDIK🫨TOTIK🫨BUCLUKIIK🫨",
@@ -244,7 +255,7 @@
       "title": "cocosel",
       "date": "2026-08-02T12:12:49.99254Z",
       "duration": "0:20",
-      "views": 2,
+      "views": 3,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/ff/clip_01KZ166MJG9E7PGER1TSDENV10/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KZ166MJG9E7PGER1TSDENV10"
@@ -255,7 +266,7 @@
       "title": "afara",
       "date": "2026-08-01T12:52:45.885326Z",
       "duration": "0:12",
-      "views": 3,
+      "views": 4,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/74/clip_01KYYP2Z1D65GE5A1WXGKKRQW3/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KYYP2Z1D65GE5A1WXGKKRQW3"
@@ -266,7 +277,7 @@
       "title": "....",
       "date": "2026-08-01T00:49:16.290863Z",
       "duration": "0:30",
-      "views": 1,
+      "views": 2,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/b5/clip_01KYXCQQ2MXXPHY8VSEFJQHMZX/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KYXCQQ2MXXPHY8VSEFJQHMZX"
@@ -398,7 +409,7 @@
       "title": "KICK Bounties 3",
       "date": "2026-05-25T21:36:29.561301Z",
       "duration": "0:12",
-      "views": 17,
+      "views": 18,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/41/clip_01KSGGZ26JX743MMP0778DVBZM/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSGGZ26JX743MMP0778DVBZM"
@@ -459,5 +470,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSDQKDCN200AX6BFEH51T8E6"
     }
   ],
-  "fetched": "2026-08-03T19:47:36.279595+00:00"
+  "fetched": "2026-08-04T03:27:57.528860+00:00"
 }
