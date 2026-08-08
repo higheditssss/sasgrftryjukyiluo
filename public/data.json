@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "121150815",
+      "type": "vod",
+      "title": "😳LETIKE😳OVIKE😳MITIKE😳LIVIKE😳VINERIKE😳LIVEKIE😳HAIDEKIE😳LEKTIKIE😳REACTIKIE😳",
+      "date": "2026-08-07 20:37:36",
+      "duration": "4304:43:20",
+      "views": 220,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/4kMxRtPkaMUO/720.webp",
+      "url": "https://kick.com/video/9af73e49-28c1-4174-99e2-6fad22dc8f1f"
+    },
+    {
       "id": "120822452",
       "type": "vod",
       "title": "🎤LIVE🎤LEKTZII🎤JOACA🎤POATE🎤HAI🎤AKUMA🎤KRED🎤",
@@ -224,17 +235,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/Mlkgu4SNPqab/720.webp",
       "url": "https://kick.com/video/4d72d826-0cd0-4f73-ac78-f3847e034bc1"
-    },
-    {
-      "id": "116544666",
-      "type": "vod",
-      "title": "😭VENITI😭DE😭LUATI😭INTUNERIC😭LIFE😭LIVE😭CONCERT😭INVITAT😭SPECIAL😭HAI😭BINE😭",
-      "date": "2026-07-08 19:12:29",
-      "duration": "6304:43:20",
-      "views": 1498,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/exD0nggKTQOp/720.webp",
-      "url": "https://kick.com/video/55778525-0e7f-4f04-baf4-9f00630bacd7"
     }
   ],
   "clips": [
@@ -459,5 +459,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSDQKDCN200AX6BFEH51T8E6"
     }
   ],
-  "fetched": "2026-08-07T19:06:49.422816+00:00"
+  "fetched": "2026-08-08T02:08:44.865692+00:00"
 }
