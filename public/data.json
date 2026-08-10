@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "121490566",
+      "type": "vod",
+      "title": "🤬CE🤬INJURI🤬MA🤬UNGUR🤬LIVE🤬DUMINIKE🤬HAIDIKE🤬LIVIKE🤬",
+      "date": "2026-08-09 21:10:26",
+      "duration": "4255:50:00",
+      "views": 1420,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/EYZIsygDSBvK/720.webp",
+      "url": "https://kick.com/video/bbe14297-2a21-48c2-94d0-0b7326a984bb"
+    },
+    {
       "id": "121317228",
       "type": "vod",
       "title": "🫨WOW🫨POFTIM🫨NU🫨CRED🫨ASA🫨CEVA🫨VENITI🫨SA🫨VEDETI🫨WOW🫨INCREDIBIl🫨WOW🫨",
@@ -459,5 +470,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSDQKDCN200AX6BFEH51T8E6"
     }
   ],
-  "fetched": "2026-08-09T18:52:17.623061+00:00"
+  "fetched": "2026-08-10T02:25:23.717805+00:00"
 }
