@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "121640802",
+      "type": "vod",
+      "title": "DACA ACEST TITLU E UN TITLU ATUNCI CELALALT TITLU CE TITLU ESTE",
+      "date": "2026-08-10 21:07:39",
+      "duration": "2949:26:40",
+      "views": 288,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/BxWHOAaZW01j/720.webp",
+      "url": "https://kick.com/video/c50b7124-1afc-4f43-a2b4-f9c94f6bf6b9"
+    },
+    {
       "id": "121490566",
       "type": "vod",
       "title": "🤬CE🤬INJURI🤬MA🤬UNGUR🤬LIVE🤬DUMINIKE🤬HAIDIKE🤬LIVIKE🤬",
@@ -235,17 +246,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/RJuZa9rj2ncm/720.webp",
       "url": "https://kick.com/video/411bc1ff-b0d1-4ac2-b4cf-8b5ad7679ab0"
-    },
-    {
-      "id": "117009910",
-      "type": "vod",
-      "title": "🐈MEOW🐈LIVE🐈NEW🐈STREAMER🐈HAIDATI🐈JOACA🐈REASII🐈HAALAND🐈GOL🐈NORVEGIA🐈CUPA🐈MONDIALA🐈",
-      "date": "2026-07-11 20:57:26",
-      "duration": "3786:56:40",
-      "views": 411,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/7r4uvLeMh0xW/720.webp",
-      "url": "https://kick.com/video/de446033-f8b4-4eab-8389-faaa7cda2e0c"
     }
   ],
   "clips": [
@@ -255,7 +255,7 @@
       "title": "cocosel",
       "date": "2026-08-02T12:12:49.99254Z",
       "duration": "0:20",
-      "views": 9,
+      "views": 10,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/ff/clip_01KZ166MJG9E7PGER1TSDENV10/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KZ166MJG9E7PGER1TSDENV10"
@@ -470,5 +470,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSDQKDCN200AX6BFEH51T8E6"
     }
   ],
-  "fetched": "2026-08-10T19:06:51.666036+00:00"
+  "fetched": "2026-08-11T02:18:55.785243+00:00"
 }
