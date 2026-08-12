@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "121783309",
+      "type": "vod",
+      "title": "😁LIVE😁MICINAS😁CHICIFOS😁BOZMEG😁ISTENEM😁SI😁TOATE😁ALEA😁HHAI😁",
+      "date": "2026-08-11 19:42:53",
+      "duration": "5034:43:20",
+      "views": 486,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/RHWb5c4EpFqL/720.webp",
+      "url": "https://kick.com/video/d3f1c862-6b56-47e2-b0fb-0dec9c305747"
+    },
+    {
       "id": "121640802",
       "type": "vod",
       "title": "DACA ACEST TITLU E UN TITLU ATUNCI CELALALT TITLU CE TITLU ESTE",
@@ -235,17 +246,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/iTj5GYw5mgue/720.webp",
       "url": "https://kick.com/video/d9aad40e-93e3-4905-b487-7ad6f6e3e9f9"
-    },
-    {
-      "id": "117165878",
-      "type": "vod",
-      "title": "🎵NE UITAM LA DON SI RESTU DE LA BP🎵",
-      "date": "2026-07-12 21:55:53",
-      "duration": "3130:33:20",
-      "views": 708,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/RJuZa9rj2ncm/720.webp",
-      "url": "https://kick.com/video/411bc1ff-b0d1-4ac2-b4cf-8b5ad7679ab0"
     }
   ],
   "clips": [
@@ -255,7 +255,7 @@
       "title": "cocosel",
       "date": "2026-08-02T12:12:49.99254Z",
       "duration": "0:20",
-      "views": 12,
+      "views": 13,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/ff/clip_01KZ166MJG9E7PGER1TSDENV10/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KZ166MJG9E7PGER1TSDENV10"
@@ -470,5 +470,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSDQKDCN200AX6BFEH51T8E6"
     }
   ],
-  "fetched": "2026-08-11T19:12:22.450006+00:00"
+  "fetched": "2026-08-12T02:33:36.424675+00:00"
 }
