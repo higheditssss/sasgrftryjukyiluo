@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "123055717",
+      "type": "vod",
+      "title": "🤯LIVE🤯MC🤯HARKORE🤯PARIU🤯CU🤯VIATA🤯REACTII🤯JOACA🤯SONG🤯BATTLE🤯DE🤯TOATE🤯HAI🤯",
+      "date": "2026-08-19 17:32:26",
+      "duration": "—",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/VR8yxe25jUtG/720.webp?versionId=oa8nnZvXEjJOUHDRH6DiN2vC7NXxtEQ8",
+      "url": "https://kick.com/video/4782422c-e4f4-4187-b161-6c4ad9fb5e3d"
+    },
+    {
       "id": "122910038",
       "type": "vod",
       "title": "👨‍🦲LIVE👨‍🦲CHEL👨‍🦲BUNA👨‍🦲SIUA👨‍🦲DOMNULE👨‍🦲SONG👨‍🦲BATTLE👨‍🦲LECTII👨‍🦲JOACA👨‍🦲DE👨‍🦲TOATE👨‍🦲",
@@ -481,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSGGZ26JX743MMP0778DVBZM"
     }
   ],
-  "fetched": "2026-08-19T13:00:41.457967+00:00"
+  "fetched": "2026-08-19T18:45:26.401428+00:00"
 }
