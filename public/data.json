@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "123222789",
+      "type": "vod",
+      "title": "🤪MA🤪KOIU🤪PST🤪CHEAMO🤪PUTIN🤪PE🤪MATA🤪PST🤪CEAI🤪FA🤪DE🤪FACI🤪ASA🤪",
+      "date": "2026-08-20 18:32:24",
+      "duration": "—",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/Tt7FcNuyWKPo/720.webp?versionId=5Ush0bR8eM5XfPPur.nb9swtEwWgf0sM",
+      "url": "https://kick.com/video/17f65a61-34e1-4003-870e-b28efb74d142"
+    },
+    {
       "id": "123055717",
       "type": "vod",
       "title": "🤯LIVE🤯MC🤯HARKORE🤯PARIU🤯CU🤯VIATA🤯REACTII🤯JOACA🤯SONG🤯BATTLE🤯DE🤯TOATE🤯HAI🤯",
@@ -77,7 +88,7 @@
       "title": "👺CE👺AI👺MA👺NASU👺ALA👺ASA👺MARE👺HAI👺MARSH👺LA👺PUHLA👺DRACHU👺SA👺NU👺AUDH👺",
       "date": "2026-08-12 21:45:44",
       "duration": "2561:56:40",
-      "views": 335,
+      "views": 339,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/bIF5GPZRkPKs/720.webp",
       "url": "https://kick.com/video/432546fa-39e6-4bdd-9844-03521c7c7e8e"
@@ -343,7 +354,7 @@
       "title": "afara",
       "date": "2026-08-01T12:52:45.885326Z",
       "duration": "0:12",
-      "views": 11,
+      "views": 12,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/74/clip_01KYYP2Z1D65GE5A1WXGKKRQW3/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KYYP2Z1D65GE5A1WXGKKRQW3"
@@ -492,5 +503,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSGGZ26JX743MMP0778DVBZM"
     }
   ],
-  "fetched": "2026-08-20T13:03:11.075202+00:00"
+  "fetched": "2026-08-20T18:51:01.053607+00:00"
 }
