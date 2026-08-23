@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "123688566",
+      "type": "vod",
+      "title": "🐔GAINA🐔MATII🐔HAi🐔SALUT🐔VA🐔PUP🐔DIMINEATA🐔E🐔ZI🐔SI🐔E🐔FRUMOS🐔CA🐔ASA🐔E🐔",
+      "date": "2026-08-23 15:30:15",
+      "duration": "—",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/z5VZi60mmAIh/720.webp?versionId=AIppJRgeBT5J.qa1XXkNeu_LYx..cnAj",
+      "url": "https://kick.com/video/750c3488-0364-486d-a335-896a014cef8f"
+    },
+    {
       "id": "123545234",
       "type": "vod",
       "title": "👿LIVE👿HAIDE👿PESKUIALA👿LECTII👿SANG👿WARS👿HAIDETI👿SAMBATA👿VICHEND👿DRACUSOR👿IMPIELICIOR👿",
@@ -305,6 +316,17 @@
   ],
   "clips": [
     {
+      "id": "clip_01M0QY4PT8STMTDRVZ3RG0GTBQ",
+      "type": "clip",
+      "title": "🐔GAINA🐔MATII🐔HAi🐔SALUT🐔VA🐔PUP🐔DIMINEATA�...",
+      "date": "2026-08-23T18:29:20.150821Z",
+      "duration": "0:30",
+      "views": 0,
+      "category": "Skribbl.io",
+      "thumb": "https://clips.kick.com/clips/45/clip_01M0QY4PT8STMTDRVZ3RG0GTBQ/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01M0QY4PT8STMTDRVZ3RG0GTBQ"
+    },
+    {
       "id": "clip_01M011920BKTQ0PTQX5MN6CFYF",
       "type": "clip",
       "title": "Thomas trenu",
@@ -512,18 +534,7 @@
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/6c/clip_01KSHK1MAJTNKNWB0S2R6XWVQH/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSHK1MAJTNKNWB0S2R6XWVQH"
-    },
-    {
-      "id": "clip_01KSGGZ26JX743MMP0778DVBZM",
-      "type": "clip",
-      "title": "KICK Bounties 3",
-      "date": "2026-05-25T21:36:29.561301Z",
-      "duration": "0:12",
-      "views": 19,
-      "category": "Just Chatting",
-      "thumb": "https://clips.kick.com/clips/41/clip_01KSGGZ26JX743MMP0778DVBZM/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KSGGZ26JX743MMP0778DVBZM"
     }
   ],
-  "fetched": "2026-08-23T12:54:20.032604+00:00"
+  "fetched": "2026-08-23T18:39:37.169554+00:00"
 }
