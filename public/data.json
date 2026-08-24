@@ -10,10 +10,10 @@
       "type": "vod",
       "title": "🐔GAINA🐔MATII🐔HAi🐔SALUT🐔VA🐔PUP🐔DIMINEATA🐔E🐔ZI🐔SI🐔E🐔FRUMOS🐔CA🐔ASA🐔E🐔",
       "date": "2026-08-23 15:30:15",
-      "duration": "—",
-      "views": 3,
+      "duration": "3604:26:40",
+      "views": 391,
       "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/z5VZi60mmAIh/720.webp?versionId=AIppJRgeBT5J.qa1XXkNeu_LYx..cnAj",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/z5VZi60mmAIh/720.webp",
       "url": "https://kick.com/video/750c3488-0364-486d-a335-896a014cef8f"
     },
     {
@@ -121,7 +121,7 @@
       "title": "👺CE👺AI👺MA👺NASU👺ALA👺ASA👺MARE👺HAI👺MARSH👺LA👺PUHLA👺DRACHU👺SA👺NU👺AUDH👺",
       "date": "2026-08-12 21:45:44",
       "duration": "2561:56:40",
-      "views": 381,
+      "views": 383,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/bIF5GPZRkPKs/720.webp",
       "url": "https://kick.com/video/432546fa-39e6-4bdd-9844-03521c7c7e8e"
@@ -301,17 +301,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/2h9G5H24Mx38/720.webp",
       "url": "https://kick.com/video/c8f85e23-f024-4808-a60f-3dd8567cea35"
-    },
-    {
-      "id": "118953703",
-      "type": "vod",
-      "title": "Hai salut inviere fericita",
-      "date": "2026-07-24 20:44:10",
-      "duration": "4366:56:40",
-      "views": 380,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/fHJQLOm41qz4/720.webp",
-      "url": "https://kick.com/video/9800a56c-40d2-4ba1-ab03-4d12e82dbedd"
     }
   ],
   "clips": [
@@ -322,7 +311,7 @@
       "date": "2026-08-23T18:29:20.150821Z",
       "duration": "0:30",
       "views": 0,
-      "category": "Skribbl.io",
+      "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/45/clip_01M0QY4PT8STMTDRVZ3RG0GTBQ/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M0QY4PT8STMTDRVZ3RG0GTBQ"
     },
@@ -536,5 +525,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSHK1MAJTNKNWB0S2R6XWVQH"
     }
   ],
-  "fetched": "2026-08-23T18:39:37.169554+00:00"
+  "fetched": "2026-08-24T01:49:32.837626+00:00"
 }
