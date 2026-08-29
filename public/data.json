@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "124695147",
+      "type": "vod",
+      "title": "😾DA😾MA😾BINE😾STII😾TU😾LIVE😾OK😾HAI😾OK😾VREI😾OK😾BINE😾ATUNCI😾MEOW😾",
+      "date": "2026-08-29 19:22:46",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/hbGuG8kktzyX/720.webp?versionId=UBPclzTKDvHaxyNjnRHTTCVVdWfnHsXY",
+      "url": "https://kick.com/video/af0a99da-85f5-4243-9ab9-9b2f8e4f8c8a"
+    },
+    {
       "id": "124516508",
       "type": "vod",
       "title": "🤣HAI🤣LIVE🤣GLORIEEEE🤣ISUSSS🤣HRIUSTOSSS🤣HAI🤣RADEM🤣CICA🤣CATERINQA🤣BAAA🤣",
@@ -246,17 +257,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/oSmemvYBpvEz/720.webp",
       "url": "https://kick.com/video/75c37f12-f50f-44de-90f1-4a5262f19094"
-    },
-    {
-      "id": "119889357",
-      "type": "vod",
-      "title": "👍GALUSCA👍LIVE👍JOI👍SE👍DA👍LA👍OI👍HAI👍REACTII👍HODOR👍HODOR👍HODOR👍HODOR👍HODOR👍",
-      "date": "2026-07-30 19:17:17",
-      "duration": "6418:36:40",
-      "views": 363,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/imtrTDEN8qZp/720.webp",
-      "url": "https://kick.com/video/88bc2233-9864-447d-b7cc-ba0f85874e4d"
     }
   ],
   "clips": [
@@ -266,7 +266,7 @@
       "title": "🐔GAINA🐔MATII🐔HAi🐔SALUT🐔VA🐔PUP🐔DIMINEATA�...",
       "date": "2026-08-23T18:29:20.150821Z",
       "duration": "0:30",
-      "views": 3,
+      "views": 4,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/45/clip_01M0QY4PT8STMTDRVZ3RG0GTBQ/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M0QY4PT8STMTDRVZ3RG0GTBQ"
@@ -431,7 +431,7 @@
       "title": "....",
       "date": "2026-06-09T18:55:21.92579Z",
       "duration": "0:42",
-      "views": 86,
+      "views": 87,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/70/clip_01KTPVT0K5SB7J5W2DSKXPGWDR/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KTPVT0K5SB7J5W2DSKXPGWDR"
@@ -481,5 +481,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSHK1MAJTNKNWB0S2R6XWVQH"
     }
   ],
-  "fetched": "2026-08-29T16:38:53.346696+00:00"
+  "fetched": "2026-08-29T20:50:50.193575+00:00"
 }
