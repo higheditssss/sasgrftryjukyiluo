@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "124853664",
+      "type": "vod",
+      "title": "👹HAI👹OK👹CEAI👹BA👹DE👹TE👹UITI👹ASA👹DAAAA MAAA BINEEE👹LIVE👹DUMINIQUE👹",
+      "date": "2026-08-30 18:24:34",
+      "duration": "—",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/MyQnCr7urRuC/720.webp?versionId=ci2IzbyxWGLgoshajtUi7neYx3WX1J14",
+      "url": "https://kick.com/video/b586c0c2-1f7f-4668-a682-2a66cfaeb35a"
+    },
+    {
       "id": "124695147",
       "type": "vod",
       "title": "😾DA😾MA😾BINE😾STII😾TU😾LIVE😾OK😾HAI😾OK😾VREI😾OK😾BINE😾ATUNCI😾MEOW😾",
@@ -246,17 +257,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/UfqGb37fgZT3/720.webp",
       "url": "https://kick.com/video/ecf5ce0d-98ee-4088-bfcc-6f33c608c978"
-    },
-    {
-      "id": "120041779",
-      "type": "vod",
-      "title": "👉🏾LIVE👉🏾VINERI👉🏾WIKEND👉🏾GATA👉🏾SCOALA👉🏾VACANTA👉🏾MUNCA👉🏾1👉🏾IULIE👉🏾MUNCITORESC👉🏾HAI👉🏾",
-      "date": "2026-07-31 19:15:32",
-      "duration": "6054:26:40",
-      "views": 879,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/oSmemvYBpvEz/720.webp",
-      "url": "https://kick.com/video/75c37f12-f50f-44de-90f1-4a5262f19094"
     }
   ],
   "clips": [
@@ -481,5 +481,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSHK1MAJTNKNWB0S2R6XWVQH"
     }
   ],
-  "fetched": "2026-08-30T16:34:17.427789+00:00"
+  "fetched": "2026-08-30T20:56:13.852929+00:00"
 }
