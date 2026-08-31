@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "125006769",
+      "type": "vod",
+      "title": "😴LIVE😴AVEM😴CRIZE😴DE😴NERGI😴PARIU😴DE😴TOATE😴HAI😴",
+      "date": "2026-08-31 18:14:45",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/fpJv2B1tW0rf/720.webp?versionId=mkKiQueKkCzXgK7zY5trNaSM4hh6tDBB",
+      "url": "https://kick.com/video/a9d024af-c45e-41ca-be95-dcce9601b46a"
+    },
+    {
       "id": "124853664",
       "type": "vod",
       "title": "👹HAI👹OK👹CEAI👹BA👹DE👹TE👹UITI👹ASA👹DAAAA MAAA BINEEE👹LIVE👹DUMINIQUE👹",
@@ -154,7 +165,7 @@
       "title": "👺CE👺AI👺MA👺NASU👺ALA👺ASA👺MARE👺HAI👺MARSH👺LA👺PUHLA👺DRACHU👺SA👺NU👺AUDH👺",
       "date": "2026-08-12 21:45:44",
       "duration": "2561:56:40",
-      "views": 467,
+      "views": 473,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/bIF5GPZRkPKs/720.webp",
       "url": "https://kick.com/video/432546fa-39e6-4bdd-9844-03521c7c7e8e"
@@ -246,20 +257,20 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/KbhZYvZS9IO5/720.webp",
       "url": "https://kick.com/video/7f0c1333-0e7e-4a8d-9d0f-339945ad12ec"
-    },
-    {
-      "id": "120217523",
-      "type": "vod",
-      "title": "live test",
-      "date": "2026-08-01 20:34:42",
-      "duration": "4535:00:00",
-      "views": 291,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/UfqGb37fgZT3/720.webp",
-      "url": "https://kick.com/video/ecf5ce0d-98ee-4088-bfcc-6f33c608c978"
     }
   ],
   "clips": [
+    {
+      "id": "clip_01M1CZGRZS647JPHT576WGTAD4",
+      "type": "clip",
+      "title": "Cancel Him",
+      "date": "2026-08-31T22:38:20.398499Z",
+      "duration": "0:12",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://clips.kick.com/clips/75/clip_01M1CZGRZS647JPHT576WGTAD4/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01M1CZGRZS647JPHT576WGTAD4"
+    },
     {
       "id": "clip_01M0QY4PT8STMTDRVZ3RG0GTBQ",
       "type": "clip",
@@ -468,18 +479,7 @@
       "category": "KICK Bounties",
       "thumb": "https://clips.kick.com/clips/da/clip_01KSKF3E20ZB7Z9628M2KP8FS8/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSKF3E20ZB7Z9628M2KP8FS8"
-    },
-    {
-      "id": "clip_01KSHK1MAJTNKNWB0S2R6XWVQH",
-      "type": "clip",
-      "title": "KICK Bounties",
-      "date": "2026-05-26T07:30:34.519679Z",
-      "duration": "0:30",
-      "views": 11,
-      "category": "Just Chatting",
-      "thumb": "https://clips.kick.com/clips/6c/clip_01KSHK1MAJTNKNWB0S2R6XWVQH/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KSHK1MAJTNKNWB0S2R6XWVQH"
     }
   ],
-  "fetched": "2026-08-31T13:29:11.306534+00:00"
+  "fetched": "2026-08-31T22:44:25.503304+00:00"
 }
