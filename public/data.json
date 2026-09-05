@@ -10,10 +10,10 @@
       "type": "vod",
       "title": "😥MINECRAFT😥SATANIST😥HAIDETI😥DE😥CE😥OKEII😥BAA😥HAII😥BAA😥VENITI😥BAA😥",
       "date": "2026-09-04 18:28:36",
-      "duration": "—",
-      "views": 3,
+      "duration": "5149:43:20",
+      "views": 335,
       "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/ZzuTWjUIalve/720.webp?versionId=PDocqVew7hhRYHonMobVJD8v_Fcq9CCj",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/ZzuTWjUIalve/720.webp",
       "url": "https://kick.com/video/6ec44b1e-7f88-4c73-8ea1-b4e3c3a0c4b1"
     },
     {
@@ -261,12 +261,23 @@
   ],
   "clips": [
     {
+      "id": "clip_01M1Q92GYVWCKK3TT221CYWCJ2",
+      "type": "clip",
+      "title": "n word",
+      "date": "2026-09-04T22:37:17.133688Z",
+      "duration": "0:20",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://clips.kick.com/clips/d7/clip_01M1Q92GYVWCKK3TT221CYWCJ2/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01M1Q92GYVWCKK3TT221CYWCJ2"
+    },
+    {
       "id": "clip_01M1CZGRZS647JPHT576WGTAD4",
       "type": "clip",
       "title": "Cancel Him",
       "date": "2026-08-31T22:38:20.398499Z",
       "duration": "0:12",
-      "views": 4,
+      "views": 5,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/75/clip_01M1CZGRZS647JPHT576WGTAD4/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M1CZGRZS647JPHT576WGTAD4"
@@ -468,18 +479,7 @@
       "category": "KICK Bounties",
       "thumb": "https://clips.kick.com/clips/91/clip_01KSKHE654W6714YHZS96J33Y8/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
-    },
-    {
-      "id": "clip_01KSKF3E20ZB7Z9628M2KP8FS8",
-      "type": "clip",
-      "title": "bounty",
-      "date": "2026-05-27T01:00:32.327853Z",
-      "duration": "0:28",
-      "views": 23,
-      "category": "KICK Bounties",
-      "thumb": "https://clips.kick.com/clips/da/clip_01KSKF3E20ZB7Z9628M2KP8FS8/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KSKF3E20ZB7Z9628M2KP8FS8"
     }
   ],
-  "fetched": "2026-09-04T20:41:09.067167+00:00"
+  "fetched": "2026-09-05T04:13:03.556128+00:00"
 }
