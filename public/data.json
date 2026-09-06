@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "126001248",
+      "type": "vod",
+      "title": "✨HAI✨LIVE✨SCURT✨CRED✨AVARIAT✨LA✨CAPAT✨INTRATI✨BINE✨OMULE✨REACTII✨RAS✨",
+      "date": "2026-09-06 19:58:05",
+      "duration": "—",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/KVunXJK90fXI/720.webp?versionId=x0qZF0I8pJPHgsydBnFRkWt2Py7bglUn",
+      "url": "https://kick.com/video/43d39cd1-aeed-401b-a66e-372d9ed9725b"
+    },
+    {
       "id": "125796204",
       "type": "vod",
       "title": "🫡MINECRAFT🫡AM🫡SCHIMBAT🫡TOT🫡MA🫡AJUTATI🫡SI🫡CU🫡CHANNEL🫡POINTS🫡HAI🫡BAAA🫡REACTII🫡DE🫡TOATE🫡PROGRES🫡LA🫡JOC🫡ROBLOX🫡",
@@ -209,7 +220,7 @@
       "title": "👺CE👺AI👺MA👺NASU👺ALA👺ASA👺MARE👺HAI👺MARSH👺LA👺PUHLA👺DRACHU👺SA👺NU👺AUDH👺",
       "date": "2026-08-12 21:45:44",
       "duration": "2561:56:40",
-      "views": 529,
+      "views": 531,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/bIF5GPZRkPKs/720.webp",
       "url": "https://kick.com/video/432546fa-39e6-4bdd-9844-03521c7c7e8e"
@@ -288,7 +299,7 @@
       "title": "Cancel Him",
       "date": "2026-08-31T22:38:20.398499Z",
       "duration": "0:12",
-      "views": 7,
+      "views": 9,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/75/clip_01M1CZGRZS647JPHT576WGTAD4/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M1CZGRZS647JPHT576WGTAD4"
@@ -492,5 +503,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-06T15:22:16.760263+00:00"
+  "fetched": "2026-09-06T20:18:35.279978+00:00"
 }
