@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "126472631",
+      "type": "vod",
+      "title": "👀HAI👀BAAAA👀NEBUNULLEEE👀HAIII👀LIVE👀DIMINEATA👀BINE👀OMULE👀CATERINQA👀RAZURI👀DI👀TOATE👀",
+      "date": "2026-09-09 18:56:57",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/PXOOVZGv9TG3/720.webp?versionId=Vf1utJ_ysC378_dCPewMwwe41eQWMpmo",
+      "url": "https://kick.com/video/4ab945cf-ab52-4574-ac33-7e2f5e2e2fc0"
+    },
+    {
       "id": "126153646",
       "type": "vod",
       "title": "🦴OSU🦴GEAM🦴HAI🦴LIVE🦴INRATS🦴CE🦴FACI🦴BINE🦴TU🦴CARNEA🦴LUI🦴MISIBIST🦴",
@@ -420,7 +431,7 @@
       "title": "567",
       "date": "2026-06-19T10:11:50.347717Z",
       "duration": "0:30",
-      "views": 15,
+      "views": 16,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/27/clip_01KVFNTWFQ4WQEF41NVWTM0PEQ/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KVFNTWFQ4WQEF41NVWTM0PEQ"
@@ -481,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-09T16:28:50.850885+00:00"
+  "fetched": "2026-09-09T20:51:19.989522+00:00"
 }
