@@ -10,10 +10,10 @@
       "type": "vod",
       "title": "👀HAI👀BAAAA👀NEBUNULLEEE👀HAIII👀LIVE👀DIMINEATA👀BINE👀OMULE👀CATERINQA👀RAZURI👀DI👀TOATE👀",
       "date": "2026-09-09 18:56:57",
-      "duration": "—",
-      "views": 0,
+      "duration": "5061:40:00",
+      "views": 360,
       "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/PXOOVZGv9TG3/720.webp?versionId=Vf1utJ_ysC378_dCPewMwwe41eQWMpmo",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/PXOOVZGv9TG3/720.webp",
       "url": "https://kick.com/video/4ab945cf-ab52-4574-ac33-7e2f5e2e2fc0"
     },
     {
@@ -257,17 +257,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/RHWb5c4EpFqL/720.webp",
       "url": "https://kick.com/video/d3f1c862-6b56-47e2-b0fb-0dec9c305747"
-    },
-    {
-      "id": "121640802",
-      "type": "vod",
-      "title": "DACA ACEST TITLU E UN TITLU ATUNCI CELALALT TITLU CE TITLU ESTE",
-      "date": "2026-08-10 21:07:39",
-      "duration": "2949:26:40",
-      "views": 296,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/BxWHOAaZW01j/720.webp",
-      "url": "https://kick.com/video/c50b7124-1afc-4f43-a2b4-f9c94f6bf6b9"
     }
   ],
   "clips": [
@@ -492,5 +481,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-09T20:51:19.989522+00:00"
+  "fetched": "2026-09-10T04:23:55.082566+00:00"
 }
