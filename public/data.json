@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "126645603",
+      "type": "vod",
+      "title": "✨NUMA✨NECAZURI✨HAI✨SCUZE✨DE✨INTARZIERE✨NU✨SE✨MAI✨REPETA✨HAI✨CAA✨DAAA✨",
+      "date": "2026-09-10 19:55:13",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/1C4N8dUCD3OY/720.webp?versionId=zrcmkk_Tz.My_1jAvinh9BQhePzAEyoM",
+      "url": "https://kick.com/video/1e3cbc3e-ec23-42f0-a288-5205d6c5c4ed"
+    },
+    {
       "id": "126472631",
       "type": "vod",
       "title": "👀HAI👀BAAAA👀NEBUNULLEEE👀HAIII👀LIVE👀DIMINEATA👀BINE👀OMULE👀CATERINQA👀RAZURI👀DI👀TOATE👀",
@@ -246,17 +257,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/bIF5GPZRkPKs/720.webp",
       "url": "https://kick.com/video/432546fa-39e6-4bdd-9844-03521c7c7e8e"
-    },
-    {
-      "id": "121783309",
-      "type": "vod",
-      "title": "😁LIVE😁MICINAS😁CHICIFOS😁BOZMEG😁ISTENEM😁SI😁TOATE😁ALEA😁HHAI😁",
-      "date": "2026-08-11 19:42:53",
-      "duration": "5034:43:20",
-      "views": 486,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/RHWb5c4EpFqL/720.webp",
-      "url": "https://kick.com/video/d3f1c862-6b56-47e2-b0fb-0dec9c305747"
     }
   ],
   "clips": [
@@ -481,5 +481,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-10T16:17:18.523578+00:00"
+  "fetched": "2026-09-10T20:45:49.472711+00:00"
 }
