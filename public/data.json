@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "127316453",
+      "type": "vod",
+      "title": "🫪CEAI🫪MA🫪DEFACI🫪ASA🫪NUTIE🫪BINE🫪SAU🫪AI🫪CEVA🫪STRICAT🫪LA🫪STOMAK🫪HAI🫪ZIII🫪BUNA🫪ROBLOX🫪DEVELOPER🫪BAAA🫪HAHAHA🫪VIBE🫪CODING🫪",
+      "date": "2026-09-14 20:42:47",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/6m7aoDeHGwUQ/720.webp?versionId=SZLRVDi1HI.EFNfQduKK9VyNQXDbtuFi",
+      "url": "https://kick.com/video/7c2220ab-3a0c-4eac-b925-0cde19be560e"
+    },
+    {
       "id": "127167602",
       "type": "vod",
       "title": "CEVA SCURT RAPID HAI RPD SPOILER ALERT NU E SPOILER HAHAH HAI BAA",
@@ -257,17 +268,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/lw3wabclmR0d/720.webp",
       "url": "https://kick.com/video/c4da16ac-0ee9-4685-86d7-288dfd33b438"
-    },
-    {
-      "id": "122423649",
-      "type": "vod",
-      "title": "👽MI👽CI👽NAS👽SZ👽IA👽LIVE👽SAMBATA👽WEEKE👽ND👽HAIDE👽ECSTRATERESTRU👽",
-      "date": "2026-08-15 18:53:04",
-      "duration": "6150:16:40",
-      "views": 1032,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/p5maaJm1VG2S/720.webp",
-      "url": "https://kick.com/video/4ea4b4bf-b35c-402e-947b-31ed0d2fe633"
     }
   ],
   "clips": [
@@ -288,7 +288,7 @@
       "title": "Cancel Him",
       "date": "2026-08-31T22:38:20.398499Z",
       "duration": "0:12",
-      "views": 22,
+      "views": 23,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/75/clip_01M1CZGRZS647JPHT576WGTAD4/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M1CZGRZS647JPHT576WGTAD4"
@@ -492,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-14T12:32:26.369120+00:00"
+  "fetched": "2026-09-14T21:44:08.883429+00:00"
 }
