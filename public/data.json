@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "127167602",
+      "type": "vod",
+      "title": "CEVA SCURT RAPID HAI RPD SPOILER ALERT NU E SPOILER HAHAH HAI BAA",
+      "date": "2026-09-13 20:47:23",
+      "duration": "2139:26:40",
+      "views": 488,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/wfS2oK1ibinM/720.webp",
+      "url": "https://kick.com/video/b4155c40-d6bb-4432-951d-b5294c84d095"
+    },
+    {
       "id": "126973871",
       "type": "vod",
       "title": "🫪LIVE🫪CE🫪SE🫪INTAMPLA🫪MA🫪OARE🫪HAIDE🫪TOTI🫪CUMINTE🫪REACTII🫪JOACA🫪CATERINCA🫪RADEM🫪PLANGEM🫪MURIM🫪",
@@ -277,7 +288,7 @@
       "title": "Cancel Him",
       "date": "2026-08-31T22:38:20.398499Z",
       "duration": "0:12",
-      "views": 19,
+      "views": 20,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/75/clip_01M1CZGRZS647JPHT576WGTAD4/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M1CZGRZS647JPHT576WGTAD4"
@@ -481,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-13T20:39:49.892376+00:00"
+  "fetched": "2026-09-14T04:41:02.682116+00:00"
 }
