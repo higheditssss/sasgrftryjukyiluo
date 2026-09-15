@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "127458389",
+      "type": "vod",
+      "title": "🚗LIVE🚗MASINA🚗MERGE🚗IN🚗FATA🚗SAU🚗IN🚗SPATE🚗HAI🚗ROBLOX🚗WANNABE🚗DEVELOPER🚗HAI🚗BINE🚗",
+      "date": "2026-09-15 19:09:38",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/PpuVxUvgUDHd/720.webp?versionId=PTvlJInVbjXY9WHrYKLs7TVuGOzdssbR",
+      "url": "https://kick.com/video/d216a020-1965-4d8a-b5a7-5c7d4cbb94a9"
+    },
+    {
       "id": "127316453",
       "type": "vod",
       "title": "🫪CEAI🫪MA🫪DEFACI🫪ASA🫪NUTIE🫪BINE🫪SAU🫪AI🫪CEVA🫪STRICAT🫪LA🫪STOMAK🫪HAI🫪ZIII🫪BUNA🫪ROBLOX🫪DEVELOPER🫪BAAA🫪HAHAHA🫪VIBE🫪CODING🫪",
@@ -257,17 +268,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/zuNZH64ZltFt/720.webp",
       "url": "https://kick.com/video/bfcfe4bb-852f-42dc-85f1-18c63f49dc35"
-    },
-    {
-      "id": "122583999",
-      "type": "vod",
-      "title": "🤫SHH🤫JOACA🤫CU🤫BAIETSII🤫CATERINQUE🤫REACTIQUE🤫LECTIIUQE🤫DIMINEATUQE🤫",
-      "date": "2026-08-16 18:18:11",
-      "duration": "6154:10:00",
-      "views": 1444,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/lw3wabclmR0d/720.webp",
-      "url": "https://kick.com/video/c4da16ac-0ee9-4685-86d7-288dfd33b438"
     }
   ],
   "clips": [
@@ -288,7 +288,7 @@
       "title": "Cancel Him",
       "date": "2026-08-31T22:38:20.398499Z",
       "duration": "0:12",
-      "views": 25,
+      "views": 26,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/75/clip_01M1CZGRZS647JPHT576WGTAD4/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M1CZGRZS647JPHT576WGTAD4"
@@ -492,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-15T16:48:45.939952+00:00"
+  "fetched": "2026-09-15T21:11:09.589696+00:00"
 }
