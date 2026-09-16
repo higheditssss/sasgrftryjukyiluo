@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "127632769",
+      "type": "vod",
+      "title": "🤍HAI🤍LIVE🤍INIMA🤍ALBA🤍REACTII🤍CATERINQUE🤍DE🤍TOATE🤍VA🤍IUBI🤍BINE🤍ATI🤍VENIT🤍",
+      "date": "2026-09-16 21:00:38",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/pT8D6b55iPuD/720.webp?versionId=UXjcBtCNS_ITM5Ibxpr9eUKyHbgIHtf3",
+      "url": "https://kick.com/video/462ab043-22f0-462c-a1d6-63cb8c2d8cab"
+    },
+    {
       "id": "127458389",
       "type": "vod",
       "title": "🚗LIVE🚗MASINA🚗MERGE🚗IN🚗FATA🚗SAU🚗IN🚗SPATE🚗HAI🚗ROBLOX🚗WANNABE🚗DEVELOPER🚗HAI🚗BINE🚗",
@@ -257,17 +268,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/UYyrJkESBRoo/720.webp",
       "url": "https://kick.com/video/280206ec-5090-4be0-8240-d0ee19353334"
-    },
-    {
-      "id": "122737673",
-      "type": "vod",
-      "title": "🫰LOVE🫰LIVE🫰HAI🫰MAI🫰AUGUST🫰SEPTEMBRIE🫰AUGUST🫰CATERINCQUE🫰LIVEUQE🫰",
-      "date": "2026-08-17 18:27:37",
-      "duration": "5559:10:00",
-      "views": 431,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/zuNZH64ZltFt/720.webp",
-      "url": "https://kick.com/video/bfcfe4bb-852f-42dc-85f1-18c63f49dc35"
     }
   ],
   "clips": [
@@ -288,7 +288,7 @@
       "title": "Cancel Him",
       "date": "2026-08-31T22:38:20.398499Z",
       "duration": "0:12",
-      "views": 28,
+      "views": 29,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/75/clip_01M1CZGRZS647JPHT576WGTAD4/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M1CZGRZS647JPHT576WGTAD4"
@@ -492,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-16T16:41:42.124707+00:00"
+  "fetched": "2026-09-16T21:12:27.547516+00:00"
 }
