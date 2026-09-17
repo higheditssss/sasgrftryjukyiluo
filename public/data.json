@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "127789066",
+      "type": "vod",
+      "title": "🍑HAI🍑BAAAA🍑NU🍑VAAA🍑MAI🍑SATURATIIi🍑BAAAA🍑LIVE🍑CICA🍑MENIOHOZO🍑BREMBO🍑",
+      "date": "2026-09-17 20:27:01",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/fIprALSmhCRs/720.webp?versionId=jfAu7vkRtMFHnsWpKXQOOnFOqpqPpG1w",
+      "url": "https://kick.com/video/4864f5dc-be9f-4c44-b68b-1ba1fa9c8708"
+    },
+    {
       "id": "127632769",
       "type": "vod",
       "title": "🤍HAI🤍LIVE🤍INIMA🤍ALBA🤍REACTII🤍CATERINQUE🤍DE🤍TOATE🤍VA🤍IUBI🤍BINE🤍ATI🤍VENIT🤍",
@@ -257,17 +268,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/VR8yxe25jUtG/720.webp",
       "url": "https://kick.com/video/4782422c-e4f4-4187-b161-6c4ad9fb5e3d"
-    },
-    {
-      "id": "122910038",
-      "type": "vod",
-      "title": "👨‍🦲LIVE👨‍🦲CHEL👨‍🦲BUNA👨‍🦲SIUA👨‍🦲DOMNULE👨‍🦲SONG👨‍🦲BATTLE👨‍🦲LECTII👨‍🦲JOACA👨‍🦲DE👨‍🦲TOATE👨‍🦲",
-      "date": "2026-08-18 19:13:38",
-      "duration": "5543:20:00",
-      "views": 420,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/UYyrJkESBRoo/720.webp",
-      "url": "https://kick.com/video/280206ec-5090-4be0-8240-d0ee19353334"
     }
   ],
   "clips": [
@@ -288,7 +288,7 @@
       "title": "Cancel Him",
       "date": "2026-08-31T22:38:20.398499Z",
       "duration": "0:12",
-      "views": 31,
+      "views": 32,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/75/clip_01M1CZGRZS647JPHT576WGTAD4/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M1CZGRZS647JPHT576WGTAD4"
@@ -492,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-17T16:48:48.084924+00:00"
+  "fetched": "2026-09-17T21:14:56.913582+00:00"
 }
