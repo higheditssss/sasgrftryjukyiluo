@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "128300806",
+      "type": "vod",
+      "title": "🥹BAAA🥹DECI🥹NU🥹MI🥹VINE🥹SA🥹CRED🥹CE🥹S🥹A🥹INTAMPLAT🥹VENITI🥹SA🥹VEDETI🥹SPOVEDANIA🥹DOMNULUI🥹NOSTRU🥹SAM🥹SI🥹DEAN🥹",
+      "date": "2026-09-20 20:04:48",
+      "duration": "—",
+      "views": 2,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/XarkalZXdg4p/720.webp?versionId=T4rzBsBJa6MkQQFpckB.qJlVRyizR18B",
+      "url": "https://kick.com/video/c195cd8f-45b4-44a6-a4bd-5d6b377fd92d"
+    },
+    {
       "id": "128133898",
       "type": "vod",
       "title": "🦊VULPE🦊LIVE🦊CE🦊NE🦊PREGATESTE🦊ASTAZI🦊UNIVERSUL🦊HAIDETSI🦊TOTSI🦊BINE🦊OMULE🦊FANTASTIK🦊",
       "date": "2026-09-19 20:41:25",
       "duration": "3345:16:40",
-      "views": 416,
+      "views": 419,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/aUh5jBAqtNhG/720.webp",
       "url": "https://kick.com/video/b740ffb7-4737-4343-ac1e-a382b329f660"
@@ -22,7 +33,7 @@
       "title": "🐷PROGRESAM🐷CU🐷JOKU🐷HAI🐷SPOILERE🐷YEAT🐷LISTENING🐷PARTY🐷HAIDETI🐷TOTI🐷",
       "date": "2026-09-18 20:54:39",
       "duration": "3358:03:20",
-      "views": 430,
+      "views": 432,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/C3YXSr3Igy3V/720.webp",
       "url": "https://kick.com/video/ebb70bd9-426a-4b47-9d94-cd3c9d2b208d"
@@ -33,7 +44,7 @@
       "title": "🍑HAI🍑BAAAA🍑NU🍑VAAA🍑MAI🍑SATURATIIi🍑BAAAA🍑LIVE🍑CICA🍑MENIOHOZO🍑BREMBO🍑",
       "date": "2026-09-17 20:27:01",
       "duration": "4036:23:20",
-      "views": 308,
+      "views": 311,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/fIprALSmhCRs/720.webp",
       "url": "https://kick.com/video/4864f5dc-be9f-4c44-b68b-1ba1fa9c8708"
@@ -44,7 +55,7 @@
       "title": "🤍HAI🤍LIVE🤍INIMA🤍ALBA🤍REACTII🤍CATERINQUE🤍DE🤍TOATE🤍VA🤍IUBI🤍BINE🤍ATI🤍VENIT🤍",
       "date": "2026-09-16 21:00:38",
       "duration": "3026:40:00",
-      "views": 1148,
+      "views": 1152,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/pT8D6b55iPuD/720.webp",
       "url": "https://kick.com/video/462ab043-22f0-462c-a1d6-63cb8c2d8cab"
@@ -257,17 +268,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/omAZYq4d14TM/720.webp",
       "url": "https://kick.com/video/1f98e663-36da-4f4f-ac84-098d7a662e40"
-    },
-    {
-      "id": "123383828",
-      "type": "vod",
-      "title": "🧐UARE🧐CE🧐SENTAMPLA🧐AZI🧐IA🧐ZICETI🧐VOI🧐IA🧐GHICITI🧐VOI🧐PST🧐CHEAMO🧐PUTIN🧐PE🧐MAMA🧐TA🧐",
-      "date": "2026-08-21 18:47:11",
-      "duration": "6261:40:00",
-      "views": 714,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/xtL0KSMDqx3v/720.webp",
-      "url": "https://kick.com/video/4b4ef58a-236c-4bbc-82d9-8500fe23cfab"
     }
   ],
   "clips": [
@@ -492,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-20T15:55:57.273464+00:00"
+  "fetched": "2026-09-20T20:41:26.339494+00:00"
 }
