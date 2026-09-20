@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "128133898",
+      "type": "vod",
+      "title": "🦊VULPE🦊LIVE🦊CE🦊NE🦊PREGATESTE🦊ASTAZI🦊UNIVERSUL🦊HAIDETSI🦊TOTSI🦊BINE🦊OMULE🦊FANTASTIK🦊",
+      "date": "2026-09-19 20:41:25",
+      "duration": "3345:16:40",
+      "views": 416,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/aUh5jBAqtNhG/720.webp",
+      "url": "https://kick.com/video/b740ffb7-4737-4343-ac1e-a382b329f660"
+    },
+    {
       "id": "127960300",
       "type": "vod",
       "title": "🐷PROGRESAM🐷CU🐷JOKU🐷HAI🐷SPOILERE🐷YEAT🐷LISTENING🐷PARTY🐷HAIDETI🐷TOTI🐷",
@@ -481,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-19T20:29:37.961154+00:00"
+  "fetched": "2026-09-20T04:42:53.070613+00:00"
 }
