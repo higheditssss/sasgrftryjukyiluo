@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "128452573",
+      "type": "vod",
+      "title": "😮‍💨ROMANIA😮‍💨NOASTRA😮‍💨IESIM😮‍💨IN😮‍💨STRADA😮‍💨TOTI😮‍💨ACUM😮‍💨HAI😮‍💨PE😮‍💨LIVE😮‍💨SCANDAL😮‍💨CATERINCA😮‍💨RASETURI😮‍💨",
+      "date": "2026-09-21 20:12:05",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/mvXv5I5DwX1c/720.webp?versionId=mxZroOKNDbz7nvAJq90C5w8Xbmd_9ITS",
+      "url": "https://kick.com/video/ed674672-52f9-4cac-8a0f-3dac03593c36"
+    },
+    {
       "id": "128300806",
       "type": "vod",
       "title": "🥹BAAA🥹DECI🥹NU🥹MI🥹VINE🥹SA🥹CRED🥹CE🥹S🥹A🥹INTAMPLAT🥹VENITI🥹SA🥹VEDETI🥹SPOVEDANIA🥹DOMNULUI🥹NOSTRU🥹SAM🥹SI🥹DEAN🥹",
@@ -257,17 +268,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/z5VZi60mmAIh/720.webp",
       "url": "https://kick.com/video/750c3488-0364-486d-a335-896a014cef8f"
-    },
-    {
-      "id": "123545234",
-      "type": "vod",
-      "title": "👿LIVE👿HAIDE👿PESKUIALA👿LECTII👿SANG👿WARS👿HAIDETI👿SAMBATA👿VICHEND👿DRACUSOR👿IMPIELICIOR👿",
-      "date": "2026-08-22 18:09:22",
-      "duration": "6811:40:00",
-      "views": 410,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/omAZYq4d14TM/720.webp",
-      "url": "https://kick.com/video/1f98e663-36da-4f4f-ac84-098d7a662e40"
     }
   ],
   "clips": [
@@ -398,7 +398,7 @@
       "title": "hahahaha",
       "date": "2026-07-18T22:05:20.756116Z",
       "duration": "0:30",
-      "views": 3,
+      "views": 4,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/68/clip_01KXVM64032K6S0A6KRB0RATFB/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KXVM64032K6S0A6KRB0RATFB"
@@ -492,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-21T12:38:14.333481+00:00"
+  "fetched": "2026-09-21T21:55:07.658388+00:00"
 }
