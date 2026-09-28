@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "129601692",
+      "type": "vod",
+      "title": "🐉CE🐉NE🐉ASTEAPTA🐉AM🐉REVENIT🐉HAIDE🐉BAAA🐉NEBUNULE🐉BAAA🐉SNEAK🐉PEAK🐉RACE🐉A🐉DRAGON🐉MURIM🐉",
+      "date": "2026-09-28 19:42:01",
+      "duration": "—",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/W8WAfCWvbwJT/720.webp?versionId=N2s5Fxm8fS.GqnD2P6UfOn18ZENEHLAb",
+      "url": "https://kick.com/video/d7f1e011-d543-4275-845e-7932534a5811"
+    },
+    {
       "id": "128452573",
       "type": "vod",
       "title": "😮‍💨ROMANIA😮‍💨NOASTRA😮‍💨IESIM😮‍💨IN😮‍💨STRADA😮‍💨TOTI😮‍💨ACUM😮‍💨HAI😮‍💨PE😮‍💨LIVE😮‍💨SCANDAL😮‍💨CATERINCA😮‍💨RASETURI😮‍💨",
@@ -235,17 +246,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/MyQnCr7urRuC/720.webp",
       "url": "https://kick.com/video/b586c0c2-1f7f-4668-a682-2a66cfaeb35a"
-    },
-    {
-      "id": "124695147",
-      "type": "vod",
-      "title": "😾DA😾MA😾BINE😾STII😾TU😾LIVE😾OK😾HAI😾OK😾VREI😾OK😾BINE😾ATUNCI😾MEOW😾",
-      "date": "2026-08-29 19:22:46",
-      "duration": "5101:40:00",
-      "views": 576,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/hbGuG8kktzyX/720.webp",
-      "url": "https://kick.com/video/af0a99da-85f5-4243-9ab9-9b2f8e4f8c8a"
     }
   ],
   "clips": [
@@ -470,5 +470,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-28T13:40:32.398352+00:00"
+  "fetched": "2026-09-28T23:10:46.080084+00:00"
 }
