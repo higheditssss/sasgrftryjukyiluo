@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "129763014",
+      "type": "vod",
+      "title": "✨BAA✨APROAPE✨NU MI✨VINE✨SA✨CRED✨ASA✨CEVA✨HAI✨SA✨VEZI✨CU✨OCHII✨MEI✨",
+      "date": "2026-09-29 19:33:13",
+      "duration": "—",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/WaTkBq2398ZV/720.webp?versionId=9jUvAy97wvhD7BFj9tQROiUBDXc61goh",
+      "url": "https://kick.com/video/36aac8e4-69f5-4d2b-a56b-a7bbcd960c72"
+    },
+    {
       "id": "129601692",
       "type": "vod",
       "title": "🐉CE🐉NE🐉ASTEAPTA🐉AM🐉REVENIT🐉HAIDE🐉BAAA🐉NEBUNULE🐉BAAA🐉SNEAK🐉PEAK🐉RACE🐉A🐉DRAGON🐉MURIM🐉",
@@ -235,17 +246,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/fpJv2B1tW0rf/720.webp",
       "url": "https://kick.com/video/a9d024af-c45e-41ca-be95-dcce9601b46a"
-    },
-    {
-      "id": "124853664",
-      "type": "vod",
-      "title": "👹HAI👹OK👹CEAI👹BA👹DE👹TE👹UITI👹ASA👹DAAAA MAAA BINEEE👹LIVE👹DUMINIQUE👹",
-      "date": "2026-08-30 18:24:34",
-      "duration": "4074:43:20",
-      "views": 149,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/MyQnCr7urRuC/720.webp",
-      "url": "https://kick.com/video/b586c0c2-1f7f-4668-a682-2a66cfaeb35a"
     }
   ],
   "clips": [
@@ -310,7 +310,7 @@
       "title": "Daenerys",
       "date": "2026-08-12T02:43:12.134063Z",
       "duration": "1:26",
-      "views": 24,
+      "views": 25,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/98/clip_01KZSXKB16YCQB13HZ2VVA026M/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KZSXKB16YCQB13HZ2VVA026M"
@@ -470,5 +470,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-29T12:38:54.879034+00:00"
+  "fetched": "2026-09-29T22:09:09.821727+00:00"
 }
