@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "129941010",
+      "type": "vod",
+      "title": "🈚HAI🈚BINE🈚SCUZE🈚DE🈚INTARZIERE🈚DEVELOPMENT🈚MASIV🈚BAAA🈚NEGRULEE🈚CE🈚DRACULUI🈚FACIII🈚MAA🈚",
+      "date": "2026-09-30 21:06:29",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/Yw8XKf8TOSur/720.webp?versionId=ki8iO0t4z9k9KaoaBcvcDFyJQ79r0j54",
+      "url": "https://kick.com/video/82aca51a-921a-49cc-88af-438ca3adfe0c"
+    },
+    {
       "id": "129763014",
       "type": "vod",
       "title": "✨BAA✨APROAPE✨NU MI✨VINE✨SA✨CRED✨ASA✨CEVA✨HAI✨SA✨VEZI✨CU✨OCHII✨MEI✨",
@@ -235,17 +246,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/tFeaPJeRbg6b/720.webp",
       "url": "https://kick.com/video/923d0400-e8e9-4741-b841-1fbc83e8992e"
-    },
-    {
-      "id": "125006769",
-      "type": "vod",
-      "title": "😴LIVE😴AVEM😴CRIZE😴DE😴NERGI😴PARIU😴DE😴TOATE😴HAI😴",
-      "date": "2026-08-31 18:14:45",
-      "duration": "5600:50:00",
-      "views": 635,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/fpJv2B1tW0rf/720.webp",
-      "url": "https://kick.com/video/a9d024af-c45e-41ca-be95-dcce9601b46a"
     }
   ],
   "clips": [
@@ -343,7 +343,7 @@
       "title": "cocosel",
       "date": "2026-08-02T12:12:49.99254Z",
       "duration": "0:20",
-      "views": 15,
+      "views": 16,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/ff/clip_01KZ166MJG9E7PGER1TSDENV10/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KZ166MJG9E7PGER1TSDENV10"
@@ -470,5 +470,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-09-30T12:24:31.703121+00:00"
+  "fetched": "2026-09-30T22:08:50.711510+00:00"
 }
