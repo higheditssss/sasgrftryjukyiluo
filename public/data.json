@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "130104428",
+      "type": "vod",
+      "title": "🤨BA🤨CE🤨NAIBA🤨SE🤨INTAMPLA🤨MA🤨FRATE🤨SUNT🤨KONFUZ🤨N🤨AI🤨7🤨ANI🤨DE🤨ACASA🤨ADUN🤨BINE🤨",
+      "date": "2026-10-01 21:10:30",
+      "duration": "—",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/oYCWctbG0DGE/720.webp?versionId=9ZPe_CTk1PO1CBzSqledyzK5k33DhcUg",
+      "url": "https://kick.com/video/dd02291b-8602-4ca8-a5fb-9f5f6d2b291c"
+    },
+    {
       "id": "129941010",
       "type": "vod",
       "title": "🈚HAI🈚BINE🈚SCUZE🈚DE🈚INTARZIERE🈚DEVELOPMENT🈚MASIV🈚BAAA🈚NEGRULEE🈚CE🈚DRACULUI🈚FACIII🈚MAA🈚",
       "date": "2026-09-30 21:06:29",
       "duration": "3235:00:00",
-      "views": 320,
+      "views": 324,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/Yw8XKf8TOSur/720.webp",
       "url": "https://kick.com/video/82aca51a-921a-49cc-88af-438ca3adfe0c"
@@ -235,17 +246,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/cHVvBPllkmth/720.webp",
       "url": "https://kick.com/video/1ef97f1b-8671-418d-8b14-7d56e9d6f26c"
-    },
-    {
-      "id": "125173858",
-      "type": "vod",
-      "title": "🤬CEAI🤬DE🤬ESTI🤬NERVUOS🤬HAI🤬LIVE🤬MA🤬DOARE🤬COCISUL🤬BINE🤬HAI🤬NERGI🤬",
-      "date": "2026-09-01 19:37:13",
-      "duration": "3624:26:40",
-      "views": 319,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/tFeaPJeRbg6b/720.webp",
-      "url": "https://kick.com/video/923d0400-e8e9-4741-b841-1fbc83e8992e"
     }
   ],
   "clips": [
@@ -343,7 +343,7 @@
       "title": "cocosel",
       "date": "2026-08-02T12:12:49.99254Z",
       "duration": "0:20",
-      "views": 17,
+      "views": 18,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/ff/clip_01KZ166MJG9E7PGER1TSDENV10/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KZ166MJG9E7PGER1TSDENV10"
@@ -431,7 +431,7 @@
       "title": "w",
       "date": "2026-06-18T21:52:37.340103Z",
       "duration": "0:18",
-      "views": 17,
+      "views": 18,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/b2/clip_01KVEBEM7RVWR8GQZDZ09JJRXE/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KVEBEM7RVWR8GQZDZ09JJRXE"
@@ -470,5 +470,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-10-01T12:59:25.408880+00:00"
+  "fetched": "2026-10-01T22:35:46.801825+00:00"
 }
