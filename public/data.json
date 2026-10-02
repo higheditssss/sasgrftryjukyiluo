@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "130259935",
+      "type": "vod",
+      "title": "🎃PRINDE🎃DOVLEACU🎃SI🎃CASTIGA🎃COPACU🎃HAIDE🎃MEOW🎃SI🎃WOF🎃BINE🎃BINEE🎃",
+      "date": "2026-10-02 19:22:33",
+      "duration": "—",
+      "views": 3,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/labF3PyGIGtK/720.webp?versionId=2E1z1iPgjp5Q_QEstSkYM70wx7LVQT.z",
+      "url": "https://kick.com/video/fbd1bcf0-1f2d-40f1-b0a2-80af677e5fc9"
+    },
+    {
       "id": "130126515",
       "type": "vod",
       "title": "🤨BA🤨CE🤨NAIBA🤨SE🤨INTAMPLA🤨MA🤨FRATE🤨SUNT🤨KONFUZ🤨N🤨AI🤨7🤨ANI🤨DE🤨ACASA🤨ADUN🤨BINE🤨",
@@ -261,6 +272,17 @@
   ],
   "clips": [
     {
+      "id": "clip_01M3YZVD8JN8KGRJCDS9AGZ9BG",
+      "type": "clip",
+      "title": "test",
+      "date": "2026-10-02T19:01:49.188412Z",
+      "duration": "1:25",
+      "views": 1,
+      "category": "Just Chatting",
+      "thumb": "https://clips.kick.com/clips/36/clip_01M3YZVD8JN8KGRJCDS9AGZ9BG/thumbnail.webp",
+      "url": "https://kick.com/razvwi?clip=clip_01M3YZVD8JN8KGRJCDS9AGZ9BG"
+    },
+    {
       "id": "clip_01M1Q92GYVWCKK3TT221CYWCJ2",
       "type": "clip",
       "title": "n word",
@@ -468,18 +490,7 @@
       "category": "KICK Bounties",
       "thumb": "https://clips.kick.com/clips/72/clip_01KSKMF29ABFM8NJE1NMSZEXJ7/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KSKMF29ABFM8NJE1NMSZEXJ7"
-    },
-    {
-      "id": "clip_01KSKHE654W6714YHZS96J33Y8",
-      "type": "clip",
-      "title": "bounty 4",
-      "date": "2026-05-27T01:40:57.114873Z",
-      "duration": "0:22",
-      "views": 24,
-      "category": "KICK Bounties",
-      "thumb": "https://clips.kick.com/clips/91/clip_01KSKHE654W6714YHZS96J33Y8/thumbnail.webp",
-      "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-10-02T12:21:35.005717+00:00"
+  "fetched": "2026-10-02T22:05:06.356989+00:00"
 }
