@@ -6,14 +6,25 @@
   },
   "videos": [
     {
+      "id": "130126515",
+      "type": "vod",
+      "title": "🤨BA🤨CE🤨NAIBA🤨SE🤨INTAMPLA🤨MA🤨FRATE🤨SUNT🤨KONFUZ🤨N🤨AI🤨7🤨ANI🤨DE🤨ACASA🤨ADUN🤨BINE🤨",
+      "date": "2026-10-01 23:29:55",
+      "duration": "352:46:40",
+      "views": 224,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/g3xyZBrXjAYB/720.webp",
+      "url": "https://kick.com/video/02fa8f8c-906d-48c6-b26a-3fe162c0a158"
+    },
+    {
       "id": "130104428",
       "type": "vod",
       "title": "🤨BA🤨CE🤨NAIBA🤨SE🤨INTAMPLA🤨MA🤨FRATE🤨SUNT🤨KONFUZ🤨N🤨AI🤨7🤨ANI🤨DE🤨ACASA🤨ADUN🤨BINE🤨",
       "date": "2026-10-01 21:10:30",
-      "duration": "—",
-      "views": 3,
+      "duration": "2313:03:20",
+      "views": 335,
       "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/oYCWctbG0DGE/720.webp?versionId=9ZPe_CTk1PO1CBzSqledyzK5k33DhcUg",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/oYCWctbG0DGE/720.webp",
       "url": "https://kick.com/video/dd02291b-8602-4ca8-a5fb-9f5f6d2b291c"
     },
     {
@@ -470,5 +481,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKHE654W6714YHZS96J33Y8"
     }
   ],
-  "fetched": "2026-10-01T22:35:46.801825+00:00"
+  "fetched": "2026-10-02T05:22:50.341004+00:00"
 }
