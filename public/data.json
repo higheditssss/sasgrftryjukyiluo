@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "130442944",
+      "type": "vod",
+      "title": "😎LIVE😎ACUM😎NE😎JUCAM😎REACTII😎ROBLOX😎DE😎TOATE😎HAIDETZ😎TOTZ😎BINE😎OMULE😎",
+      "date": "2026-10-03 19:30:16",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/gSQew9NLI0m4/720.webp?versionId=X_uCZiWBUHaH2t6GbJcoVvPJRmYvibtN",
+      "url": "https://kick.com/video/c6c8ca01-50ae-4304-9b60-e90cb785e7f4"
+    },
+    {
       "id": "130259935",
       "type": "vod",
       "title": "🎃PRINDE🎃DOVLEACU🎃SI🎃CASTIGA🎃COPACU🎃HAIDE🎃MEOW🎃SI🎃WOF🎃BINE🎃BINEE🎃",
@@ -257,17 +268,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/ZzuTWjUIalve/720.webp",
       "url": "https://kick.com/video/6ec44b1e-7f88-4c73-8ea1-b4e3c3a0c4b1"
-    },
-    {
-      "id": "125482475",
-      "type": "vod",
-      "title": "😾50😾DE😾JOCURI😾PE😾ROBLOX😾FACEM😾HAI😾LIVE😾CF😾REACTII😾RAZURI😾CATERINQ😾PUPI😾",
-      "date": "2026-09-03 18:56:55",
-      "duration": "5409:43:20",
-      "views": 1153,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/cHVvBPllkmth/720.webp",
-      "url": "https://kick.com/video/1ef97f1b-8671-418d-8b14-7d56e9d6f26c"
     }
   ],
   "clips": [
@@ -492,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKMF29ABFM8NJE1NMSZEXJ7"
     }
   ],
-  "fetched": "2026-10-03T16:07:32.389411+00:00"
+  "fetched": "2026-10-03T20:57:32.316136+00:00"
 }
