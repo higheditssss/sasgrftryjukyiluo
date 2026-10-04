@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "130628605",
+      "type": "vod",
+      "title": "🍑PIERSICUTA🍑PRINDEMAI🍑DE🍑MASELUTA🍑HAI🍑LIVE🍑LA🍑PLOIESTI🍑MA🍑SPOVEDESTI🍑HAI🍑LA🍑SPOVEDANIE🍑",
+      "date": "2026-10-04 20:15:38",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/57oETHbvrMma/720.webp?versionId=YxZbHUxU3bgWTxnZf8_PaX6gSim7_TG9",
+      "url": "https://kick.com/video/009bbf34-a061-4aa6-a5ab-1e9b84ed5721"
+    },
+    {
       "id": "130442944",
       "type": "vod",
       "title": "😎LIVE😎ACUM😎NE😎JUCAM😎REACTII😎ROBLOX😎DE😎TOATE😎HAIDETZ😎TOTZ😎BINE😎OMULE😎",
@@ -257,17 +268,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/322lDQHBrUIF/720.webp",
       "url": "https://kick.com/video/01722023-545a-4f5c-858f-3a1a18c33485"
-    },
-    {
-      "id": "125644026",
-      "type": "vod",
-      "title": "😥MINECRAFT😥SATANIST😥HAIDETI😥DE😥CE😥OKEII😥BAA😥HAII😥BAA😥VENITI😥BAA😥",
-      "date": "2026-09-04 18:28:36",
-      "duration": "5149:43:20",
-      "views": 368,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/ZzuTWjUIalve/720.webp",
-      "url": "https://kick.com/video/6ec44b1e-7f88-4c73-8ea1-b4e3c3a0c4b1"
     }
   ],
   "clips": [
@@ -277,7 +277,7 @@
       "title": "test",
       "date": "2026-10-02T19:01:49.188412Z",
       "duration": "1:25",
-      "views": 2,
+      "views": 3,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/36/clip_01M3YZVD8JN8KGRJCDS9AGZ9BG/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M3YZVD8JN8KGRJCDS9AGZ9BG"
@@ -288,7 +288,7 @@
       "title": "n word",
       "date": "2026-09-04T22:37:17.133688Z",
       "duration": "0:20",
-      "views": 17,
+      "views": 18,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/d7/clip_01M1Q92GYVWCKK3TT221CYWCJ2/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M1Q92GYVWCKK3TT221CYWCJ2"
@@ -299,7 +299,7 @@
       "title": "Cancel Him",
       "date": "2026-08-31T22:38:20.398499Z",
       "duration": "0:12",
-      "views": 32,
+      "views": 33,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/75/clip_01M1CZGRZS647JPHT576WGTAD4/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M1CZGRZS647JPHT576WGTAD4"
@@ -310,7 +310,7 @@
       "title": "🐔GAINA🐔MATII🐔HAi🐔SALUT🐔VA🐔PUP🐔DIMINEATA�...",
       "date": "2026-08-23T18:29:20.150821Z",
       "duration": "0:30",
-      "views": 5,
+      "views": 6,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/45/clip_01M0QY4PT8STMTDRVZ3RG0GTBQ/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M0QY4PT8STMTDRVZ3RG0GTBQ"
@@ -492,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKMF29ABFM8NJE1NMSZEXJ7"
     }
   ],
-  "fetched": "2026-10-04T12:12:39.087167+00:00"
+  "fetched": "2026-10-04T21:13:11.465133+00:00"
 }
