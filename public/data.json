@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "130787940",
+      "type": "vod",
+      "title": "🎃LIVE🎃HAI🎃PROGRES🎃LA🎃DRAGONI🎃VA🎃ASTEPT🎃JOACA🎃REACTII🎃RISURI🎃RADEM🎃PLANGEM🎃",
+      "date": "2026-10-05 20:40:38",
+      "duration": "3342:46:40",
+      "views": 258,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/o76Fg0AYUamh/720.webp",
+      "url": "https://kick.com/video/3ead26dc-526d-47d8-8ee5-15d3324fd391"
+    },
+    {
       "id": "130628605",
       "type": "vod",
       "title": "🍑PIERSICUTA🍑PRINDEMAI🍑DE🍑MASELUTA🍑HAI🍑LIVE🍑LA🍑PLOIESTI🍑MA🍑SPOVEDESTI🍑HAI🍑LA🍑SPOVEDANIE🍑",
@@ -257,17 +268,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/KVunXJK90fXI/720.webp",
       "url": "https://kick.com/video/43d39cd1-aeed-401b-a66e-372d9ed9725b"
-    },
-    {
-      "id": "125796204",
-      "type": "vod",
-      "title": "🫡MINECRAFT🫡AM🫡SCHIMBAT🫡TOT🫡MA🫡AJUTATI🫡SI🫡CU🫡CHANNEL🫡POINTS🫡HAI🫡BAAA🫡REACTII🫡DE🫡TOATE🫡PROGRES🫡LA🫡JOC🫡ROBLOX🫡",
-      "date": "2026-09-05 16:38:37",
-      "duration": "6687:13:20",
-      "views": 776,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/322lDQHBrUIF/720.webp",
-      "url": "https://kick.com/video/01722023-545a-4f5c-858f-3a1a18c33485"
     }
   ],
   "clips": [
@@ -277,7 +277,7 @@
       "title": "test",
       "date": "2026-10-02T19:01:49.188412Z",
       "duration": "1:25",
-      "views": 3,
+      "views": 4,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/36/clip_01M3YZVD8JN8KGRJCDS9AGZ9BG/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M3YZVD8JN8KGRJCDS9AGZ9BG"
@@ -310,7 +310,7 @@
       "title": "🐔GAINA🐔MATII🐔HAi🐔SALUT🐔VA🐔PUP🐔DIMINEATA�...",
       "date": "2026-08-23T18:29:20.150821Z",
       "duration": "0:30",
-      "views": 6,
+      "views": 7,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/45/clip_01M0QY4PT8STMTDRVZ3RG0GTBQ/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M0QY4PT8STMTDRVZ3RG0GTBQ"
@@ -492,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKMF29ABFM8NJE1NMSZEXJ7"
     }
   ],
-  "fetched": "2026-10-05T14:23:32.497767+00:00"
+  "fetched": "2026-10-06T06:09:56.927021+00:00"
 }
