@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "131121064",
+      "type": "vod",
+      "title": "👀HAI👀CA👀DEJA👀EXAGEREZI👀NU👀CREZI👀BAI👀FRATE👀BAI👀HAI👀GATA👀CA👀AJUNGE👀",
+      "date": "2026-10-07 21:11:36",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/rgfI3bJJ8u7Q/720.webp?versionId=cqNui936UneZP8s.9LnYg7_bOPZBGZA2",
+      "url": "https://kick.com/video/dcf6c148-20ff-4ceb-8bfe-90aacb445007"
+    },
+    {
       "id": "130787940",
       "type": "vod",
       "title": "🎃LIVE🎃HAI🎃PROGRES🎃LA🎃DRAGONI🎃VA🎃ASTEPT🎃JOACA🎃REACTII🎃RISURI🎃RADEM🎃PLANGEM🎃",
@@ -246,17 +257,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/PXOOVZGv9TG3/720.webp",
       "url": "https://kick.com/video/4ab945cf-ab52-4574-ac33-7e2f5e2e2fc0"
-    },
-    {
-      "id": "126153646",
-      "type": "vod",
-      "title": "🦴OSU🦴GEAM🦴HAI🦴LIVE🦴INRATS🦴CE🦴FACI🦴BINE🦴TU🦴CARNEA🦴LUI🦴MISIBIST🦴",
-      "date": "2026-09-07 19:08:18",
-      "duration": "2107:46:40",
-      "views": 384,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/PjOAmIHlhg9t/720.webp",
-      "url": "https://kick.com/video/f15383eb-1da6-4185-bccd-93fbdee44631"
     }
   ],
   "clips": [
@@ -481,5 +481,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKMF29ABFM8NJE1NMSZEXJ7"
     }
   ],
-  "fetched": "2026-10-07T13:09:19.476450+00:00"
+  "fetched": "2026-10-07T22:59:49.530104+00:00"
 }
