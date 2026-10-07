@@ -257,17 +257,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/PjOAmIHlhg9t/720.webp",
       "url": "https://kick.com/video/f15383eb-1da6-4185-bccd-93fbdee44631"
-    },
-    {
-      "id": "126001248",
-      "type": "vod",
-      "title": "✨HAI✨LIVE✨SCURT✨CRED✨AVARIAT✨LA✨CAPAT✨INTRATI✨BINE✨OMULE✨REACTII✨RAS✨",
-      "date": "2026-09-06 19:58:05",
-      "duration": "3679:26:40",
-      "views": 562,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/KVunXJK90fXI/720.webp",
-      "url": "https://kick.com/video/43d39cd1-aeed-401b-a66e-372d9ed9725b"
     }
   ],
   "clips": [
@@ -277,7 +266,7 @@
       "title": "test",
       "date": "2026-10-02T19:01:49.188412Z",
       "duration": "1:25",
-      "views": 4,
+      "views": 5,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/36/clip_01M3YZVD8JN8KGRJCDS9AGZ9BG/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M3YZVD8JN8KGRJCDS9AGZ9BG"
@@ -492,5 +481,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKMF29ABFM8NJE1NMSZEXJ7"
     }
   ],
-  "fetched": "2026-10-06T18:16:34.708331+00:00"
+  "fetched": "2026-10-07T05:41:01.603236+00:00"
 }
