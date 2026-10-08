@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "131269777",
+      "type": "vod",
+      "title": "🙃BAA🙃NO🙃BINE🙃ATUNCI🙃MA🙃COIULE🙃MEU🙃HAI🙃SI🙃TU🙃MA🙃NO🙃",
+      "date": "2026-10-08 18:48:22",
+      "duration": "2517:13:20",
+      "views": 568,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/ZIUHspVXSURZ/720.webp",
+      "url": "https://kick.com/video/02510f43-e30c-4bc6-b7e4-1fdbefaea5aa"
+    },
+    {
       "id": "131121064",
       "type": "vod",
       "title": "👀HAI👀CA👀DEJA👀EXAGEREZI👀NU👀CREZI👀BAI👀FRATE👀BAI👀HAI👀GATA👀CA👀AJUNGE👀",
@@ -266,7 +277,7 @@
       "title": "test",
       "date": "2026-10-02T19:01:49.188412Z",
       "duration": "1:25",
-      "views": 6,
+      "views": 7,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/36/clip_01M3YZVD8JN8KGRJCDS9AGZ9BG/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M3YZVD8JN8KGRJCDS9AGZ9BG"
@@ -464,7 +475,7 @@
       "title": "....",
       "date": "2026-06-09T18:55:21.92579Z",
       "duration": "0:42",
-      "views": 95,
+      "views": 96,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/70/clip_01KTPVT0K5SB7J5W2DSKXPGWDR/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KTPVT0K5SB7J5W2DSKXPGWDR"
@@ -481,5 +492,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKMF29ABFM8NJE1NMSZEXJ7"
     }
   ],
-  "fetched": "2026-10-08T13:16:56.371264+00:00"
+  "fetched": "2026-10-08T23:14:35.601141+00:00"
 }
