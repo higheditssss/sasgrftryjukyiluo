@@ -246,17 +246,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/N53E8uZnJXcW/720.webp",
       "url": "https://kick.com/video/6314c302-5528-4ecd-b4a6-c1297e5e712d"
-    },
-    {
-      "id": "126645603",
-      "type": "vod",
-      "title": "✨NUMA✨NECAZURI✨HAI✨SCUZE✨DE✨INTARZIERE✨NU✨SE✨MAI✨REPETA✨HAI✨CAA✨DAAA✨",
-      "date": "2026-09-10 19:55:13",
-      "duration": "4666:40:00",
-      "views": 361,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/1C4N8dUCD3OY/720.webp",
-      "url": "https://kick.com/video/1e3cbc3e-ec23-42f0-a288-5205d6c5c4ed"
     }
   ],
   "clips": [
@@ -464,7 +453,7 @@
       "title": "....",
       "date": "2026-06-09T18:55:21.92579Z",
       "duration": "0:42",
-      "views": 97,
+      "views": 98,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/70/clip_01KTPVT0K5SB7J5W2DSKXPGWDR/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KTPVT0K5SB7J5W2DSKXPGWDR"
@@ -481,5 +470,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KSKMF29ABFM8NJE1NMSZEXJ7"
     }
   ],
-  "fetched": "2026-10-10T12:20:35.979336+00:00"
+  "fetched": "2026-10-10T21:31:21.967074+00:00"
 }
