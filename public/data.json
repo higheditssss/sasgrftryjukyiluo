@@ -266,7 +266,7 @@
       "title": "test",
       "date": "2026-10-02T19:01:49.188412Z",
       "duration": "1:25",
-      "views": 10,
+      "views": 11,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/36/clip_01M3YZVD8JN8KGRJCDS9AGZ9BG/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M3YZVD8JN8KGRJCDS9AGZ9BG"
@@ -332,7 +332,7 @@
       "title": "Daenerys",
       "date": "2026-08-12T02:43:12.134063Z",
       "duration": "1:26",
-      "views": 30,
+      "views": 31,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/98/clip_01KZSXKB16YCQB13HZ2VVA026M/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KZSXKB16YCQB13HZ2VVA026M"
@@ -470,5 +470,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KTPVT0K5SB7J5W2DSKXPGWDR"
     }
   ],
-  "fetched": "2026-10-13T00:30:43.984858+00:00"
+  "fetched": "2026-10-13T14:02:07.558301+00:00"
 }
