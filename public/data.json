@@ -6,12 +6,23 @@
   },
   "videos": [
     {
+      "id": "131999418",
+      "type": "vod",
+      "title": "🫪CE🫪SA🫪FACI🫪BA🫪CA🫪N-AI🫪CE🫪SA🫪FACI🫪ATI🫪INNEBUNIT🫪CE🫪NAIBA🫪PAI🫪DA🫪SERIOS🫪ACUMA🫪MA🫪FRATE🫪MA🫪CE🫪NAIBILUI🫪MA🫪FRATE🫪MA🫪",
+      "date": "2026-10-12 20:05:48",
+      "duration": "3922:30:00",
+      "views": 268,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/zWymEdYsH90h/720.webp",
+      "url": "https://kick.com/video/d17dac78-5ad7-470d-ad3f-e49cda878ecb"
+    },
+    {
       "id": "131822013",
       "type": "vod",
       "title": "🩹OKEEEEI🩹?????🩹CRED🩹CA🩹E🩹NEBUNIE🩹MARE🩹RAU🩹DE🩹TOT🩹FRATEE🩹WTFF🩹",
       "date": "2026-10-11 19:31:24",
       "duration": "4169:26:40",
-      "views": 664,
+      "views": 667,
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/iOMD1jhCK4MX/720.webp",
       "url": "https://kick.com/video/69a71ebe-b97a-4443-b82e-2bb59ac9ba9f"
@@ -235,17 +246,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/wfS2oK1ibinM/720.webp",
       "url": "https://kick.com/video/b4155c40-d6bb-4432-951d-b5294c84d095"
-    },
-    {
-      "id": "126973871",
-      "type": "vod",
-      "title": "🫪LIVE🫪CE🫪SE🫪INTAMPLA🫪MA🫪OARE🫪HAIDE🫪TOTI🫪CUMINTE🫪REACTII🫪JOACA🫪CATERINCA🫪RADEM🫪PLANGEM🫪MURIM🫪",
-      "date": "2026-09-12 18:41:25",
-      "duration": "5093:53:20",
-      "views": 498,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/Ji3CX5zs1XLF/720.webp",
-      "url": "https://kick.com/video/85ec53db-0bcb-4756-b3d4-a8efc4d103a3"
     }
   ],
   "clips": [
@@ -464,11 +464,11 @@
       "title": "....",
       "date": "2026-06-09T18:55:21.92579Z",
       "duration": "0:42",
-      "views": 99,
+      "views": 100,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/70/clip_01KTPVT0K5SB7J5W2DSKXPGWDR/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01KTPVT0K5SB7J5W2DSKXPGWDR"
     }
   ],
-  "fetched": "2026-10-12T15:10:39.691195+00:00"
+  "fetched": "2026-10-13T00:30:43.984858+00:00"
 }
