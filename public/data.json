@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "132333001",
+      "type": "vod",
+      "title": "✅MEOW✅WOF✅WOF✅CE✅LATRI✅MA✅ASA✅ASA✅HAI✅LIVE✅OK✅NI✅BA✅GARZI✅",
+      "date": "2026-10-14 19:21:25",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/VKQGfRM06VJs/720.webp?versionId=vB0s8fG6hyvi_CP8s46LkD3mCbgvMpUd",
+      "url": "https://kick.com/video/4f28d66d-a339-44fc-83b8-0983b0616d03"
+    },
+    {
       "id": "131999418",
       "type": "vod",
       "title": "🫪CE🫪SA🫪FACI🫪BA🫪CA🫪N-AI🫪CE🫪SA🫪FACI🫪ATI🫪INNEBUNIT🫪CE🫪NAIBA🫪PAI🫪DA🫪SERIOS🫪ACUMA🫪MA🫪FRATE🫪MA🫪CE🫪NAIBILUI🫪MA🫪FRATE🫪MA🫪",
@@ -224,17 +235,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/PpuVxUvgUDHd/720.webp",
       "url": "https://kick.com/video/d216a020-1965-4d8a-b5a7-5c7d4cbb94a9"
-    },
-    {
-      "id": "127316453",
-      "type": "vod",
-      "title": "🫪CEAI🫪MA🫪DEFACI🫪ASA🫪NUTIE🫪BINE🫪SAU🫪AI🫪CEVA🫪STRICAT🫪LA🫪STOMAK🫪HAI🫪ZIII🫪BUNA🫪ROBLOX🫪DEVELOPER🫪BAAA🫪HAHAHA🫪VIBE🫪CODING🫪",
-      "date": "2026-09-14 20:42:47",
-      "duration": "3066:40:00",
-      "views": 500,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/6m7aoDeHGwUQ/720.webp",
-      "url": "https://kick.com/video/7c2220ab-3a0c-4eac-b925-0cde19be560e"
     }
   ],
   "clips": [
@@ -277,7 +277,7 @@
       "title": "Cancel Him",
       "date": "2026-08-31T22:38:20.398499Z",
       "duration": "0:12",
-      "views": 33,
+      "views": 34,
       "category": "Just Chatting",
       "thumb": "https://clips.kick.com/clips/75/clip_01M1CZGRZS647JPHT576WGTAD4/thumbnail.webp",
       "url": "https://kick.com/razvwi?clip=clip_01M1CZGRZS647JPHT576WGTAD4"
@@ -459,5 +459,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KTPVT0K5SB7J5W2DSKXPGWDR"
     }
   ],
-  "fetched": "2026-10-14T17:00:25.260794+00:00"
+  "fetched": "2026-10-14T21:32:38.167710+00:00"
 }
