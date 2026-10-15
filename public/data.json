@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "132494001",
+      "type": "vod",
+      "title": "✨OKKK✨FRATE✨BAGA✨ASTIA✨ADS✨LA✨JUST✨CHATTING✨E✨BINE✨SAU✨NU✨E✨BINE✨ZICETI✨VOI✨",
+      "date": "2026-10-15 18:14:38",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/hYnAykhpMkQ0/720.webp?versionId=1U2ICUQ9MwVBfRyI9nq3KHIJQAWeo3OI",
+      "url": "https://kick.com/video/780c16f1-d43e-41c5-bfad-cf1e3dc39892"
+    },
+    {
       "id": "132333001",
       "type": "vod",
       "title": "✅MEOW✅WOF✅WOF✅CE✅LATRI✅MA✅ASA✅ASA✅HAI✅LIVE✅OK✅NI✅BA✅GARZI✅",
@@ -224,17 +235,6 @@
       "category": "Just Chatting",
       "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/pT8D6b55iPuD/720.webp",
       "url": "https://kick.com/video/462ab043-22f0-462c-a1d6-63cb8c2d8cab"
-    },
-    {
-      "id": "127458389",
-      "type": "vod",
-      "title": "🚗LIVE🚗MASINA🚗MERGE🚗IN🚗FATA🚗SAU🚗IN🚗SPATE🚗HAI🚗ROBLOX🚗WANNABE🚗DEVELOPER🚗HAI🚗BINE🚗",
-      "date": "2026-09-15 19:09:38",
-      "duration": "4106:40:00",
-      "views": 324,
-      "category": "Just Chatting",
-      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/PpuVxUvgUDHd/720.webp",
-      "url": "https://kick.com/video/d216a020-1965-4d8a-b5a7-5c7d4cbb94a9"
     }
   ],
   "clips": [
@@ -459,5 +459,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KTPVT0K5SB7J5W2DSKXPGWDR"
     }
   ],
-  "fetched": "2026-10-15T16:48:28.747692+00:00"
+  "fetched": "2026-10-15T21:14:37.448841+00:00"
 }
