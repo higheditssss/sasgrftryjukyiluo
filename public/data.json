@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "133891849",
+      "type": "vod",
+      "title": "🤐MI🤐AM🤐PUS🤐LA🤐GURA🤐CEVA🤐SA🤐NU🤐MAI🤐VORBESC🤐TESTAM🤐PE🤐LIVE🤐SA🤐VEDEM🤐DACA🤐MERGE🤐OK🤐",
+      "date": "2026-10-23 19:28:36",
+      "duration": "—",
+      "views": 0,
+      "category": "Just Chatting",
+      "thumb": "https://images.kick.com/video_thumbnails/aJTiXYNqG0ZA/HKv81OFXsbYa/720.webp?versionId=KJRk02LCOBg.5ESGvxPUpW5Zu0VaPJd5",
+      "url": "https://kick.com/video/ddfad6c3-0ef4-4a57-8d27-7da24d432850"
+    },
+    {
       "id": "133730487",
       "type": "vod",
       "title": "🫠MORGA🫠PE🫠MORGA🫠SE🫠SCOATE🫠PARIU🫠HAI🫠SA🫠VEZI🫠DACA🫠TU🫠NU🫠CREZI🫠SEMI🫠NEMORT🫠",
@@ -426,5 +437,5 @@
       "url": "https://kick.com/razvwi?clip=clip_01KTPVT0K5SB7J5W2DSKXPGWDR"
     }
   ],
-  "fetched": "2026-10-23T16:54:57.600282+00:00"
+  "fetched": "2026-10-23T21:18:05.301625+00:00"
 }
